@@ -202,7 +202,203 @@
 
 ##### [2.3.1 熬夜肝了这一份C++开发详细学习路线](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.100%E3%80%91%E7%86%AC%E5%A4%9C%E8%82%9D%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%BDC%2B%2B%E5%BC%80%E5%8F%91%E8%AF%A6%E7%BB%86%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 
+##### [2.3.2 什么是DPDK？DPDK的原理及学习路线总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.101%E3%80%91%E4%BB%80%E4%B9%88%E6%98%AFDPDK%EF%BC%9FDPDK%E7%9A%84%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E6%80%BB%E7%BB%93.md)
 
+##### [2.3.3 腾讯同事内推的那位Linux CC++后端开发同学面试没过](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.102%E3%80%91%E8%85%BE%E8%AE%AF%E5%90%8C%E4%BA%8B%E5%86%85%E6%8E%A8%E7%9A%84%E9%82%A3%E4%BD%8DLinux%20CC%2B%2B%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%90%8C%E5%AD%A6%E9%9D%A2%E8%AF%95%E6%B2%A1%E8%BF%87.md)
+
+##### [2.3.4 从四线城市程序员，到深圳大厂架构师，我只用了半年](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.103%E3%80%91%E4%BB%8E%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E5%88%B0%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%8E%82%E6%9E%B6%E6%9E%84%E5%B8%88%EF%BC%8C%E6%88%91%E5%8F%AA%E7%94%A8%E4%BA%86%E5%8D%8A%E5%B9%B4.md)
+
+##### [2.3.5 详解 epoll 原理【Redis，Netty，Nginx实现高性能IO的核心原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.104%E3%80%91%E8%AF%A6%E8%A7%A3%20epoll%20%E5%8E%9F%E7%90%86%E3%80%90Redis%EF%BC%8CNetty%EF%BC%8CNginx%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BDIO%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E3%80%91.md)
+
+##### [2.3.6 这篇Redis文章，图灵看了都说好](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.105%E3%80%91%E8%BF%99%E7%AF%87Redis%E6%96%87%E7%AB%A0%EF%BC%8C%E5%9B%BE%E7%81%B5%E7%9C%8B%E4%BA%86%E9%83%BD%E8%AF%B4%E5%A5%BD.md)
+
+##### [2.3.7 一文深入理解 Kubernetes](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.106%E3%80%91%E4%B8%80%E6%96%87%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Kubernetes.md)
+
+##### [2.3.8 HTTP 请求之合并与拆分技术详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.107%E3%80%91HTTP%20%E8%AF%B7%E6%B1%82%E4%B9%8B%E5%90%88%E5%B9%B6%E4%B8%8E%E6%8B%86%E5%88%86%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.md)
+
+##### [2.3.9 一文带你理解云原生](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.108%E3%80%91%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E7%90%86%E8%A7%A3%E4%BA%91%E5%8E%9F%E7%94%9F.md)
+
+##### [2.4.1 为什么磁盘存储引擎用 b+树来作为索引结构？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.109%E3%80%91%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A3%81%E7%9B%98%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E7%94%A8%20b%2B%E6%A0%91%E6%9D%A5%E4%BD%9C%E4%B8%BA%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84%EF%BC%9F.md)
+
+##### [2.4.2 一致性哈希算法及其在分布式系统中的应用](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.110%E3%80%91%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+
+##### [2.4.3 如何实现一个malloc](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.111%E3%80%91%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAmalloc.md)
+
+##### [2.4.4 Linux网络设计之异步IO机制与io_uring](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.112%E3%80%91Linux%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%E4%B9%8B%E5%BC%82%E6%AD%A5IO%E6%9C%BA%E5%88%B6%E4%B8%8Eio_uring.md)
+
+##### [2.4.5 glibc malloc源码分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.113%E3%80%91glibc%20malloc%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+
+##### [2.4.6 C++内存管理及内存问题的分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.114%E3%80%91C%2B%2B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%8F%8A%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98%E7%9A%84%E5%88%86%E6%9E%90.md)
+
+##### [2.4.7 一大波C++进阶知识干货分享，请接收！](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.115%E3%80%91%E4%B8%80%E5%A4%A7%E6%B3%A2C%2B%2B%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB%EF%BC%8C%E8%AF%B7%E6%8E%A5%E6%94%B6%EF%BC%81.md)
+
+##### [2.4.8 线程池的优点及其原理，简单、明了](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.116%E3%80%91%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BC%98%E7%82%B9%E5%8F%8A%E5%85%B6%E5%8E%9F%E7%90%86%EF%BC%8C%E7%AE%80%E5%8D%95%E3%80%81%E6%98%8E%E4%BA%86%E3%80%82.md)
+
+##### [2.4.9 2022年腾讯C++研发类笔试面试试题及答案](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.117%E3%80%912022%E5%B9%B4%E8%85%BE%E8%AE%AFC%2B%2B%E7%A0%94%E5%8F%91%E7%B1%BB%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.md)
+
+##### [2.5.1 C++后台开发，以我之见](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.118%E3%80%91C%2B%2B%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BB%A5%E6%88%91%E4%B9%8B%E8%A7%81.md)
+
+##### [2.5.2 ETCD介绍—etcd概念及原理方面分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.119%E3%80%91ETCD%E4%BB%8B%E7%BB%8D%E2%80%94etcd%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%8E%9F%E7%90%86%E6%96%B9%E9%9D%A2%E5%88%86%E6%9E%90.md)
+
+##### [2.5.3 十个问题理解Linux epoll工作原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.120%E3%80%91%E5%8D%81%E4%B8%AA%E9%97%AE%E9%A2%98%E7%90%86%E8%A7%A3Linux%20epoll%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+
+##### [2.5.4 GPU虚拟化，算力隔离，和qGPU](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.121%E3%80%91GPU%E8%99%9A%E6%8B%9F%E5%8C%96%EF%BC%8C%E7%AE%97%E5%8A%9B%E9%9A%94%E7%A6%BB%EF%BC%8C%E5%92%8CqGPU.md)
+
+##### [2.5.5 一文入门 Kafka](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.122%E3%80%91%E4%B8%80%E6%96%87%E5%85%A5%E9%97%A8%20Kafka.md)
+
+##### [2.5.6 浏览器性能优化实战](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.123%E3%80%91%E6%B5%8F%E8%A7%88%E5%99%A8%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E6%88%98.md)
+
+##### [2.5.7 文掌握 Linux 内存管理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.124%E3%80%91%E4%B8%80%E6%96%87%E6%8E%8C%E6%8F%A1%20Linux%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+
+##### [2.5.8 Linux网络编程 零拷贝 ：sendfile、mmap、splice、tee](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.125%E3%80%91Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%20%20%E9%9B%B6%E6%8B%B7%E8%B4%9D%20%EF%BC%9Asendfile%E3%80%81mmap%E3%80%81splice%E3%80%81tee.md)
+
+##### [2.5.9 TCP将成为历史？看看谷歌的QUIC协议都做了些什么你就知道了](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.126%E3%80%91TCP%E5%B0%86%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%EF%BC%9F%E7%9C%8B%E7%9C%8B%E8%B0%B7%E6%AD%8C%E7%9A%84QUIC%E5%8D%8F%E8%AE%AE%E9%83%BD%E5%81%9A%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%E4%BD%A0%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BA%86.md)
+
+##### [2.6.1 MySQL 的锁机制，那么多的锁，该怎么区分？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.127%E3%80%91MySQL%20%E7%9A%84%E9%94%81%E6%9C%BA%E5%88%B6%EF%BC%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E7%9A%84%E9%94%81%EF%BC%8C%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8C%BA%E5%88%86%EF%BC%9F.md)
+
+##### [2.6.2 详解 MySQL 的事务以及隔离级别](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.128%E3%80%91%E8%AF%A6%E8%A7%A3%20MySQL%20%E7%9A%84%E4%BA%8B%E5%8A%A1%E4%BB%A5%E5%8F%8A%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB.md)
+
+##### [2.6.3 glibc内存管理那些事儿](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.129%E3%80%91glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
+
+##### [2.6.4 红黑树 与 B+树区别和应用场景](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.130%E3%80%91%E7%BA%A2%E9%BB%91%E6%A0%91%20%E4%B8%8E%20B%2B%E6%A0%91%E5%8C%BA%E5%88%AB%E5%92%8C%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+
+##### [2.6.5 CC++ Linux 后台服务器开发高级架构师学习知识路线总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.131%E3%80%91CC%2B%2B%20Linux%20%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%E9%AB%98%E7%BA%A7%E6%9E%B6%E6%9E%84%E5%B8%88%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E8%B7%AF%E7%BA%BF%E6%80%BB%E7%BB%93.md)
+
+##### [2.6.6 C++后台服务器开发必备技能——数据库连接池](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.132%E3%80%91C%2B%2B%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD%E2%80%94%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0.md)
+
+##### [2.6.7 深入理解异步IO+epoll+协程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.133%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%BC%82%E6%AD%A5IO%2Bepoll%2B%E5%8D%8F%E7%A8%8B.md)
+
+##### [2.6.8 redis 数据类型详解 以及 redis适用场景场合（详细）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.134%E3%80%91redis%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%AF%A6%E8%A7%A3%20%E4%BB%A5%E5%8F%8A%20redis%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF%E5%9C%BA%E5%90%88%EF%BC%88%E8%AF%A6%E7%BB%86%EF%BC%89.md)
+
+##### [2.6.9 OSI 七层模型和TCPIP模型及对应协议（详解）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.136%E3%80%91OSI%20%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E5%92%8CTCPIP%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AF%B9%E5%BA%94%E5%8D%8F%E8%AE%AE%EF%BC%88%E8%AF%A6%E8%A7%A3%EF%BC%89.md)
+
+##### [2.7.1 腾讯T9T3.1级别的后台服务器开发技术大佬是怎样炼成的？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.137%E3%80%91%E8%85%BE%E8%AE%AFT9T3.1%E7%BA%A7%E5%88%AB%E7%9A%84%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BD%AC%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%EF%BC%9F.md)
+
+##### [2.7.2 TCP和UDP详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.138%E3%80%91TCP%E5%92%8CUDP%E8%AF%A6%E8%A7%A3.md)
+
+##### [2.7.3 网络IO模型的介绍引出nginx的网络IO模型](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.139%E3%80%91%E7%BD%91%E7%BB%9CIO%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%BC%95%E5%87%BAnginx%E7%9A%84%E7%BD%91%E7%BB%9CIO%E6%A8%A1%E5%9E%8B.md)
+
+##### [2.7.4 Nginx底层原理：解析Nginx为什么并发数可以达到3w!](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.140%E3%80%91Nginx%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%EF%BC%9A%E8%A7%A3%E6%9E%90Nginx%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B6%E5%8F%91%E6%95%B0%E5%8F%AF%E4%BB%A5%E8%BE%BE%E5%88%B03w!.md)
+
+##### [2.7.5 常见C++面试题及基本知识点总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.141%E3%80%91%E5%B8%B8%E8%A7%81C%2B%2B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%8A%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
+
+##### [2.7.6 百度面试题（C++方向）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.142%E3%80%91%E7%99%BE%E5%BA%A6%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88C%2B%2B%E6%96%B9%E5%90%91%EF%BC%89.md)
+
+##### [2.7.7 C++面试集锦( 面试被问到的问题）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.143%E3%80%91C%2B%2B%E9%9D%A2%E8%AF%95%E9%9B%86%E9%94%A6(%20%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%89.md)
+
+##### [2.7.8 cc++常见面试题精选](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.144%E3%80%91cc%2B%2B%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E9%80%89.md)
+
+##### [2.7.9 分布式事务解决方案](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.145%E3%80%91%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+
+##### [2.8.1 一个故事看懂CPU的SIMD技术](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.146%E3%80%91%E4%B8%80%E4%B8%AA%E6%95%85%E4%BA%8B%E7%9C%8B%E6%87%82CPU%E7%9A%84SIMD%E6%8A%80%E6%9C%AF.md)
+
+##### [2.8.2 聊一聊数据库中的锁](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.147%E3%80%91%E8%81%8A%E4%B8%80%E8%81%8A%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84%E9%94%81.md)
+
+##### [2.8.3 如何写代码 —— 编程内功心法](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.148%E3%80%91%E5%A6%82%E4%BD%95%E5%86%99%E4%BB%A3%E7%A0%81%20%E2%80%94%E2%80%94%20%E7%BC%96%E7%A8%8B%E5%86%85%E5%8A%9F%E5%BF%83%E6%B3%95.md)
+
+##### [2.8.4 性能优化知多少](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.149%E3%80%91%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9F%A5%E5%A4%9A%E5%B0%91.md)
+
+##### [2.8.5 Linux 江湖系列阶段性总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.150%E3%80%91Linux%20%E6%B1%9F%E6%B9%96%E7%B3%BB%E5%88%97%E9%98%B6%E6%AE%B5%E6%80%A7%E6%80%BB%E7%BB%93.md)
+
+##### [2.8.6 p2p之网络穿透NAT，NAT、穿透的原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.151%E3%80%91p2p%E4%B9%8B%E7%BD%91%E7%BB%9C%E7%A9%BF%E9%80%8FNAT%EF%BC%8CNAT%E3%80%81%E7%A9%BF%E9%80%8F%E7%9A%84%E5%8E%9F%E7%90%86.md)
+
+##### [2.8.7 同步与异步，回调与协程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.152%E3%80%91%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%BC%82%E6%AD%A5%EF%BC%8C%E5%9B%9E%E8%B0%83%E4%B8%8E%E5%8D%8F%E7%A8%8B.md)
+
+##### [2.8.8 Linux专家谈如何学习Linux，以及Linux的职业发展](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.153%E3%80%91Linux%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0Linux%EF%BC%8C%E4%BB%A5%E5%8F%8ALinux%E7%9A%84%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95.md)
+
+##### [2.8.9 理解MySQL——索引与优化篇](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.154%E3%80%91%E7%90%86%E8%A7%A3MySQL%E2%80%94%E2%80%94%E7%B4%A2%E5%BC%95%E4%B8%8E%E4%BC%98%E5%8C%96%E7%AF%87.md)
+
+##### [2.9.1 skynet源码分析：服务，Actor模型，lua接口编程，demo演示Actor编程思维](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.155%E3%80%91skynet%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%EF%BC%9A%E6%9C%8D%E5%8A%A1%EF%BC%8CActor%E6%A8%A1%E5%9E%8B%EF%BC%8Clua%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B%EF%BC%8Cdemo%E6%BC%94%E7%A4%BAActor%E7%BC%96%E7%A8%8B%E6%80%9D%E7%BB%B4.md)
+
+##### [2.9.2 设计模式之工厂设计模式](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.156%E3%80%91%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%B7%A5%E5%8E%82%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+
+##### [2.9.3 Nginx 防盗链](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.157%E3%80%91%20Nginx%20%E9%98%B2%E7%9B%97%E9%93%BE.md)
+
+##### [2.9.4 一文读懂数据库优化之分库分表](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.158%E3%80%91%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E4%B9%8B%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8.md)
+
+##### [2.9.5 深入剖析虚拟内存工作原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.159%E3%80%91%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+
+##### [2.9.6 Redis vs Tendis：冷热混合存储版架构揭秘](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.160%E3%80%91Redis%20vs%20Tendis%EF%BC%9A%E5%86%B7%E7%83%AD%E6%B7%B7%E5%90%88%E5%AD%98%E5%82%A8%E7%89%88%E6%9E%B6%E6%9E%84%E6%8F%AD%E7%A7%98.md)
+
+##### [2.9.7 深入理解TCPIP 协议栈](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.161%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3TCPIP%20%E5%8D%8F%E8%AE%AE%E6%A0%88.md)
+
+##### [2.9.8 作为C++后端开发程序员，应该彻底理解Epoll实现原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.162%E3%80%91%E4%BD%9C%E4%B8%BAC%2B%2B%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E5%BA%94%E8%AF%A5%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3Epoll%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+
+##### [2.9.9 协程的原理和应用，C++现实协程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.163%E3%80%91%E5%8D%8F%E7%A8%8B%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E5%BA%94%E7%94%A8%EF%BC%8CC%2B%2B%E7%8E%B0%E5%AE%9E%E5%8D%8F%E7%A8%8B.md)
+
+##### [3.1.1 redis源码分析——内存布局](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.164%E3%80%91redis%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E2%80%94%E2%80%94%E5%86%85%E5%AD%98%E5%B8%83%E5%B1%80.md)
+
+##### [3.1.2 服务器开发必备-【数据库】Redis集群篇](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.165%E3%80%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%E5%BF%85%E5%A4%87-%E3%80%90%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%91Redis%E9%9B%86%E7%BE%A4%E7%AF%87.md)
+
+##### [3.1.3 深入解读无服务器架构下的数据库](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.166%E3%80%91%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BB%E6%97%A0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%E4%B8%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+
+##### [3.1.4 Facebook、谷歌、微软和亚马逊的网络架构揭秘](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.167%E3%80%91Facebook%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%BE%AE%E8%BD%AF%E5%92%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84%E6%8F%AD%E7%A7%98.md)
+
+##### [3.1.5 Nginx 架构浅析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.168%E3%80%91Nginx%20%E6%9E%B6%E6%9E%84%E6%B5%85%E6%9E%90.md)
+
+##### [3.1.6 内核调试技巧--systemtap定位丢包原因](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.169%E3%80%91%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7--systemtap%E5%AE%9A%E4%BD%8D%E4%B8%A2%E5%8C%85%E5%8E%9F%E5%9B%A0.md)
+
+##### [3.1.7 五分钟了解互联网Web技术发展史](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.170%E3%80%91%E4%BA%94%E5%88%86%E9%92%9F%E4%BA%86%E8%A7%A3%E4%BA%92%E8%81%94%E7%BD%91Web%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E5%8F%B2.md)
+
+##### [3.1.8 快速实现一个分布式定时器](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.171%E3%80%91%E5%BF%AB%E9%80%9F%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9A%E6%97%B6%E5%99%A8.md)
+
+##### [3.1.9 MySQL 深入学习总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.172%E3%80%91MySQL%20%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
+
+##### [3.2.1 QUIC 协议原理浅解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.173%E3%80%91QUIC%20%E5%8D%8F%E8%AE%AE%E5%8E%9F%E7%90%86%E6%B5%85%E8%A7%A3.md)
+
+##### [3.2.2 微信直播聊天室架构演进](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.174%E3%80%91%E5%BE%AE%E4%BF%A1%E7%9B%B4%E6%92%AD%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B.md)
+
+##### [3.2.3 2021 有哪些不容错过的后端技术趋势](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.175%E3%80%912021%20%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF.md)
+
+##### [3.2.4 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.2.5 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.2.6 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.2.7 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.2.8 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.2.9 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.1 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.2 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.3 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.4 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.5 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.6 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.7 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.8 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.3.9 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.1 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.2 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.3 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.4 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.5 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.6 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.7 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.8 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.4.9 熬夜肝了这一份C++开发详细学习路线]
+
+##### [3.5.1 熬夜肝了这一份C++开发详细学习路线]
 
 <br/>
 <br/>
