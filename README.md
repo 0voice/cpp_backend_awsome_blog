@@ -284,7 +284,7 @@
 
 ##### [2.7.6 百度面试题（C++方向）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.142%E3%80%91%E7%99%BE%E5%BA%A6%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88C%2B%2B%E6%96%B9%E5%90%91%EF%BC%89.md)
 
-##### [2.7.7 C++面试集锦( 面试被问到的问题）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.143%E3%80%91C%2B%2B%E9%9D%A2%E8%AF%95%E9%9B%86%E9%94%A6(%20%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%89.md)
+##### [2.7.7 C++面试集锦-面试被问到的问题](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.143%E3%80%91C%2B%2B%E9%9D%A2%E8%AF%95%E9%9B%86%E9%94%A6%20%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%89.md)
 
 ##### [2.7.8 cc++常见面试题精选](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.144%E3%80%91cc%2B%2B%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E9%80%89.md)
 
