@@ -350,55 +350,55 @@
 
 ##### [3.2.3 2021 有哪些不容错过的后端技术趋势](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.175%E3%80%912021%20%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF.md)
 
-##### [3.2.4 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.4 Redis 多线程网络模型全面揭秘](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.176%E3%80%91Redis%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E6%8F%AD%E7%A7%98.md)
 
-##### [3.2.5 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.5 网络 IO 演变发展过程和模型介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.177%E3%80%91%E7%BD%91%E7%BB%9C%20IO%20%E6%BC%94%E5%8F%98%E5%8F%91%E5%B1%95%E8%BF%87%E7%A8%8B%E5%92%8C%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D.md)
 
-##### [3.2.6 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.6 操作系统与存储：解析Linux内核全新异步IO引擎io_uring设计与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.178%E3%80%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%AD%98%E5%82%A8%EF%BC%9A%E8%A7%A3%E6%9E%90Linux%E5%86%85%E6%A0%B8%E5%85%A8%E6%96%B0%E5%BC%82%E6%AD%A5IO%E5%BC%95%E6%93%8Eio_uring%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.2.7 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.7 云时代，我们需要怎样的数据库？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.179%E3%80%91%E4%BA%91%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E6%80%8E%E6%A0%B7%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%9F.md)
 
-##### [3.2.8 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.8 STGW 下一代互联网标准传输协议QUIC大规模运营之路](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.180%E3%80%91STGW%20%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BA%92%E8%81%94%E7%BD%91%E6%A0%87%E5%87%86%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEQUIC%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%BF%90%E8%90%A5%E4%B9%8B%E8%B7%AF.md)
 
-##### [3.2.9 熬夜肝了这一份C++开发详细学习路线]
+##### [3.2.9 linux：零拷贝（ zero-copy ）技术原理详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.181%E3%80%91linux%EF%BC%9A%E9%9B%B6%E6%8B%B7%E8%B4%9D%EF%BC%88%20zero-copy%20%EF%BC%89%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3.md)
 
-##### [3.3.1 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.1 【源码剖析】MemoryPool —— 简单高效的内存池 allocator 实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.182%E3%80%91%E3%80%90%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%E3%80%91MemoryPool%20%E2%80%94%E2%80%94%20%E7%AE%80%E5%8D%95%E9%AB%98%E6%95%88%E7%9A%84%E5%86%85%E5%AD%98%E6%B1%A0%20allocator%20%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.3.2 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.2 STL 红黑树源码分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.183%E3%80%91STL%20%E7%BA%A2%E9%BB%91%E6%A0%91%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
-##### [3.3.3 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.3 C++数据结构与算法：布隆过滤器（Bloom Filter）原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.184%E3%80%91C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%EF%BC%9A%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8%EF%BC%88Bloom%20Filter%EF%BC%89%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.3.4 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.4 ringbuffer 消息队列 内存池 性能优化利器](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.185%E3%80%91ringbuffer%20%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%20%E5%86%85%E5%AD%98%E6%B1%A0%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%88%A9%E5%99%A8.md)
 
-##### [3.3.5 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.5 ZeroMQ无锁队列的原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.186%E3%80%91ZeroMQ%E6%97%A0%E9%94%81%E9%98%9F%E5%88%97%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.3.6 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.6 网络不通？服务丢包？这篇 TCP 连接状态详解及故障排查，收好了](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.187%E3%80%91%E7%BD%91%E7%BB%9C%E4%B8%8D%E9%80%9A%EF%BC%9F%E6%9C%8D%E5%8A%A1%E4%B8%A2%E5%8C%85%EF%BC%9F%E8%BF%99%E7%AF%87%20TCP%20%E8%BF%9E%E6%8E%A5%E7%8A%B6%E6%80%81%E8%AF%A6%E8%A7%A3%E5%8F%8A%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5%EF%BC%8C%E6%94%B6%E5%A5%BD%E4%BA%86.md)
 
-##### [3.3.7 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.7 Linux编程：一个异步信号处理引起死锁问题的思考](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.188%E3%80%91Linux%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%BC%82%E6%AD%A5%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E5%BC%95%E8%B5%B7%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98%E7%9A%84%E6%80%9D%E8%80%83.md)
 
-##### [3.3.8 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.8 手把手教你纯c实现异常捕获try-catch组件](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.189%E3%80%91%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%BA%AFc%E5%AE%9E%E7%8E%B0%E5%BC%82%E5%B8%B8%E6%8D%95%E8%8E%B7try-catch%E7%BB%84%E4%BB%B6.md)
 
-##### [3.3.9 熬夜肝了这一份C++开发详细学习路线]
+##### [3.3.9 skynet源码结构、启动流程以及多线程工作原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.190%E3%80%91skynet%E6%BA%90%E7%A0%81%E7%BB%93%E6%9E%84%E3%80%81%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E4%BB%A5%E5%8F%8A%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
 
-##### [3.4.1 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.1 P2P通信原理与实现(C++)](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.191%E3%80%91P2P%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0(C%2B%2B).md)
 
-##### [3.4.2 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.2 linux：线程池的作用、应用场景、工作原理与纯C实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.192%E3%80%91linux%EF%BC%9A%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%9C%E7%94%A8%E3%80%81%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E3%80%81%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E4%B8%8E%E7%BA%AFC%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.4.3 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.3 [ C++ ] 一篇带你了解C++中动态内存管理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.193%E3%80%91%5B%20C%2B%2B%20%5D%20%E4%B8%80%E7%AF%87%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3C%2B%2B%E4%B8%AD%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
 
-##### [3.4.4 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.4 我们常说的短连接长连接和socket和http到底有什么关系](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.194%E3%80%91%E6%88%91%E4%BB%AC%E5%B8%B8%E8%AF%B4%E7%9A%84%E7%9F%AD%E8%BF%9E%E6%8E%A5%E9%95%BF%E8%BF%9E%E6%8E%A5%E5%92%8Csocket%E5%92%8Chttp%E5%88%B0%E5%BA%95%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB.md)
 
-##### [3.4.5 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.5 一文掌握谷歌 C++ 单元测试框架 GoogleTest](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.195%E3%80%91%E4%B8%80%E6%96%87%E6%8E%8C%E6%8F%A1%E8%B0%B7%E6%AD%8C%20C%2B%2B%20%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%20GoogleTest.md)
 
-##### [3.4.6 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.6 redis、nginx、memcached等网络编程模型详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.196%E3%80%91redis%E3%80%81nginx%E3%80%81memcached%E7%AD%89%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.md)
 
-##### [3.4.7 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.7 【底层原理】一层层剥开文件系统的面纱，彻底理解Linux文件系统](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.197%E3%80%91%E3%80%90%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E3%80%91%E4%B8%80%E5%B1%82%E5%B1%82%E5%89%A5%E5%BC%80%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%9D%A2%E7%BA%B1%EF%BC%8C%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.md)
 
-##### [3.4.8 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.8 互斥锁、自旋锁、原子操作的原理、区别及应用场景](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.198%E3%80%91%E4%BA%92%E6%96%A5%E9%94%81%E3%80%81%E8%87%AA%E6%97%8B%E9%94%81%E3%80%81%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C%E7%9A%84%E5%8E%9F%E7%90%86%E3%80%81%E5%8C%BA%E5%88%AB%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 
-##### [3.4.9 熬夜肝了这一份C++开发详细学习路线]
+##### [3.4.9 DNS异步请求池原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.199%E3%80%91DNS%E5%BC%82%E6%AD%A5%E8%AF%B7%E6%B1%82%E6%B1%A0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
-##### [3.5.1 熬夜肝了这一份C++开发详细学习路线]
+##### [3.5.1 底层原理Socket 究竟是什么 为啥网络离不开 Socket？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.200%E3%80%91%5B%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%5DSocket%20%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%20%E4%B8%BA%E5%95%A5%E7%BD%91%E7%BB%9C%E7%A6%BB%E4%B8%8D%E5%BC%80%20Socket%EF%BC%9F.md)
 
 <br/>
 <br/>
