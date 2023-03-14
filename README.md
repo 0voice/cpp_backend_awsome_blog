@@ -570,6 +570,40 @@
 
 ##### [4.5.4 C++ 协程的近况、设计与实现中的细节和决策](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.283%E3%80%91C%2B%2B%20%E5%8D%8F%E7%A8%8B%E7%9A%84%E8%BF%91%E5%86%B5%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E4%B8%AD%E7%9A%84%E7%BB%86%E8%8A%82%E5%92%8C%E5%86%B3%E7%AD%96.md)
 
+##### [4.5.5 网络四层、七层负载均衡的区别](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.284%E3%80%91%E7%BD%91%E7%BB%9C%E5%9B%9B%E5%B1%82%E3%80%81%E4%B8%83%E5%B1%82%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+##### [4.5.6 Redis源码分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.285%E3%80%91Redis%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+
+##### [4.5.7 后端开发程序员须彻底搞懂的 IO 底层原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.286%E3%80%91%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%A8%8B%E5%BA%8F%E5%91%98%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E7%9A%84%20IO%20%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.md)
+
+##### [4.5.8 Linux网络编程-UDP和TCP协议详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.287%E3%80%91Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B-UDP%E5%92%8CTCP%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3.md)
+
+##### [4.5.9 从底层原理出发，了解Linux内核之内存管理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.288%E3%80%91%E4%BB%8E%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E5%87%BA%E5%8F%91%EF%BC%8C%E4%BA%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+
+##### [4.6.1 图解 epoll 是如何工作的及epoll实现原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.289%E3%80%91%E5%9B%BE%E8%A7%A3%20epoll%20%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%8F%8Aepoll%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+
+##### [4.6.2 现在后端开发都在用什么数据库存储数据？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.290%E3%80%91%E7%8E%B0%E5%9C%A8%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E9%83%BD%E5%9C%A8%E7%94%A8%E4%BB%80%E4%B9%88%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%EF%BC%9F.md)
+
+##### [4.6.3 Redis多线程原理详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.291%E3%80%91Redis%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3.md)
+
+##### [4.6.4 工作年限、成长路线、进阶技术。怎样才能成为架构师？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.292%E3%80%91%E5%B7%A5%E4%BD%9C%E5%B9%B4%E9%99%90%E3%80%81%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E3%80%81%E8%BF%9B%E9%98%B6%E6%8A%80%E6%9C%AF%E3%80%82%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E6%88%90%E4%B8%BA%E6%9E%B6%E6%9E%84%E5%B8%88%EF%BC%9F.md)
+
+##### [4.6.5 malloc函数背后的实现原理——内存池](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.293%E3%80%91malloc%E5%87%BD%E6%95%B0%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E2%80%94%E2%80%94%E5%86%85%E5%AD%98%E6%B1%A0.md)
+
+##### [4.6.6 深入理解MYSQL索引优化：多列索引](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.294%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3MYSQL%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96%EF%BC%9A%E5%A4%9A%E5%88%97%E7%B4%A2%E5%BC%95.md)
+
+##### [4.6.7 C++高性能服务器框架——日志系统详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.295%E3%80%91C%2B%2B%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3.md)
+
+##### [4.6.8 熬夜肝了这一份C++开发详细学习路线](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.296%E3%80%91%E7%86%AC%E5%A4%9C%E8%82%9D%E4%BA%86%E8%BF%99%E4%B8%80%E4%BB%BDC%2B%2B%E5%BC%80%E5%8F%91%E8%AF%A6%E7%BB%86%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
+
+##### [4.6.9 什么是DPDK？DPDK的原理及学习路线总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.297%E3%80%91%E4%BB%80%E4%B9%88%E6%98%AFDPDK%EF%BC%9FDPDK%E7%9A%84%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E6%80%BB%E7%BB%93.md)
+
+##### [4.7.1 腾讯同事内推的那位Linux CC++后端开发同学面试没过](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.298%E3%80%91%E8%85%BE%E8%AE%AF%E5%90%8C%E4%BA%8B%E5%86%85%E6%8E%A8%E7%9A%84%E9%82%A3%E4%BD%8DLinux%20CC%2B%2B%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%90%8C%E5%AD%A6%E9%9D%A2%E8%AF%95%E6%B2%A1%E8%BF%87.md)
+
+##### [4.7.2 从四线城市程序员，到深圳大厂架构师，我只用了半年](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.299%E3%80%91%E4%BB%8E%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E5%88%B0%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%8E%82%E6%9E%B6%E6%9E%84%E5%B8%88%EF%BC%8C%E6%88%91%E5%8F%AA%E7%94%A8%E4%BA%86%E5%8D%8A%E5%B9%B4.md)
+
+##### [4.7.3 详解 epoll 原理 Redis，Netty，Nginx实现高性能IO的核心原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.300%E3%80%91%E8%AF%A6%E8%A7%A3%20epoll%20%E5%8E%9F%E7%90%86%E3%80%90Redis%EF%BC%8CNetty%EF%BC%8CNginx%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BDIO%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E3%80%91.md)
+
 <br/>
 <br/>
 
