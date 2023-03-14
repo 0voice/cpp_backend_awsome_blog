@@ -402,6 +402,77 @@
 
 ##### [3.5.1 底层原理Socket 究竟是什么 为啥网络离不开 Socket？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.200%E3%80%91%5B%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%5DSocket%20%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%20%E4%B8%BA%E5%95%A5%E7%BD%91%E7%BB%9C%E7%A6%BB%E4%B8%8D%E5%BC%80%20Socket%EF%BC%9F.md)
 
+##### [3.5.2 后端开发-MySQL数据库相关流程图原理图](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.201%E3%80%91%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91-MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%8E%9F%E7%90%86%E5%9B%BE.md)
+
+##### [3.5.3 HTTP—TCPIP—SOCKET理解及浅析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.202%E3%80%91HTTP%E2%80%94TCPIP%E2%80%94SOCKET%E7%90%86%E8%A7%A3%E5%8F%8A%E6%B5%85%E6%9E%90.md)
+
+##### [3.5.4 C++后端程序员必须彻底搞懂Nginx，从原理到实战详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.203%E3%80%91C%2B%2B%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82Nginx%EF%BC%8C%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.5.5 图文详解Linux的IO模型和相关技术](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.204%E3%80%91%E5%9B%BE%E6%96%87%E8%AF%A6%E8%A7%A3Linux%E7%9A%84IO%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF.md)
+
+##### [3.5.6 详解从网络IO到IO多路复用](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.205%E3%80%91%E8%AF%A6%E8%A7%A3%E4%BB%8E%E7%BD%91%E7%BB%9CIO%E5%88%B0IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8.md)
+
+##### [3.5.7 C++后端程序员必须彻底搞懂Nginx，从原理到实战（高级篇）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.206%E3%80%91C%2B%2B%E5%90%8E%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82Nginx%EF%BC%8C%E4%BB%8E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%9E%E6%88%98%EF%BC%88%E9%AB%98%E7%BA%A7%E7%AF%87%EF%BC%89.md)
+
+##### [3.5.8 详解内存池设计与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.207%E3%80%91%E8%AF%A6%E8%A7%A3%E5%86%85%E5%AD%98%E6%B1%A0%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [3.5.9 C++ 中的多线程的使用和线程池建设](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.208%E3%80%91C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%BB%BA%E8%AE%BE.md)
+
+##### [3.6.1 mysql锁机制详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.209%E3%80%91mysql%E9%94%81%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.6.2 TCPIP协议详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.210%E3%80%91TCPIP%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.6.3 【网络】【操作系统】详解select、poll、epoll](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.211%E3%80%91%E3%80%90%E7%BD%91%E7%BB%9C%E3%80%91%E3%80%90%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%91%E8%AF%A6%E8%A7%A3select%E3%80%81poll%E3%80%81epoll.md)
+
+##### [3.6.4 亿级流量架构之网关设计思路、常见网关对比](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.212%E3%80%91%E4%BA%BF%E7%BA%A7%E6%B5%81%E9%87%8F%E6%9E%B6%E6%9E%84%E4%B9%8B%E7%BD%91%E5%85%B3%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF%E3%80%81%E5%B8%B8%E8%A7%81%E7%BD%91%E5%85%B3%E5%AF%B9%E6%AF%94.md)
+
+##### [3.6.5 【Redis】利用 Redis 实现分布式锁](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.213%E3%80%91%E3%80%90Redis%E3%80%91%E5%88%A9%E7%94%A8%20Redis%20%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
+
+##### [3.6.6 Linux 的 IO 通信 以及 Reactor 线程模型详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.214%E3%80%91Linux%20%E7%9A%84%20IO%20%E9%80%9A%E4%BF%A1%20%E4%BB%A5%E5%8F%8A%20Reactor%20%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.6.7 MySQL数据库的性能的影响分析及优化](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.215%E3%80%91MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D%E5%88%86%E6%9E%90%E5%8F%8A%E4%BC%98%E5%8C%96.md)
+
+##### [3.6.8 Nginx-接入层Nginx架构及模块介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.216%E3%80%91Nginx-%E6%8E%A5%E5%85%A5%E5%B1%82Nginx%E6%9E%B6%E6%9E%84%E5%8F%8A%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D.md)
+
+##### [3.6.9 深入Linux CC++ Timer定时器的实现核心原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.217%E3%80%91%E6%B7%B1%E5%85%A5Linux%20CC%2B%2B%20Timer%E5%AE%9A%E6%97%B6%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86.md)
+
+##### [3.7.1 深入理解MySQL索引和优化丨MySQL的核心原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.218%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3MySQL%E7%B4%A2%E5%BC%95%E5%92%8C%E4%BC%98%E5%8C%96%E4%B8%A8MySQL%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86.md)
+
+##### [3.7.2 perf-网络协议栈性能分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.219%E3%80%91perf-%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%A0%88%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.md)
+
+##### [3.7.3 epoll多路复用和Reactor设计思想](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.220%E3%80%91%E3%80%90epoll%E3%80%91epoll%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E5%92%8CReactor%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3.md)
+
+##### [3.7.4 实例分析Linux内存泄漏检测方法](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.221%E3%80%91%E5%AE%9E%E4%BE%8B%E5%88%86%E6%9E%90Linux%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.md)
+
+##### [3.7.5 Linux基础组件之无锁消息队列ypipeyqueue详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.222%E3%80%91Linux%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6%E4%B9%8B%E6%97%A0%E9%94%81%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97ypipeyqueue%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.7.6 底层原理Socket 究竟是什么 为啥网络离不开 Socket？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.222%E3%80%91Linux%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6%E4%B9%8B%E6%97%A0%E9%94%81%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97ypipeyqueue%E8%AF%A6%E8%A7%A3.md)
+
+##### [3.7.7 Nginx 的异步非阻塞体现在哪里？从理论分析到源码验证](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.223%E3%80%91Nginx%20%E7%9A%84%E5%BC%82%E6%AD%A5%E9%9D%9E%E9%98%BB%E5%A1%9E%E4%BD%93%E7%8E%B0%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%86%E6%9E%90%E5%88%B0%E6%BA%90%E7%A0%81%E9%AA%8C%E8%AF%81.md)
+
+##### [3.7.8 Redis：6.0多线程无锁(lock-free)设计和多线程Reactor模式助力Redis QPS更上一层楼](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.224%E3%80%91%E3%80%90NO.224%E3%80%91Redis%EF%BC%9A6.0%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%97%A0%E9%94%81(lock-free)%E8%AE%BE%E8%AE%A1%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8BReactor%E6%A8%A1%E5%BC%8F%E5%8A%A9%E5%8A%9BRedis%20QPS%E6%9B%B4%E4%B8%8A%E4%B8%80%E5%B1%82%E6%A5%BC.md)
+
+##### [3.7.9 从Reactor模式俯瞰Nginx，你会发现你与高手的差距就在设计模式上](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.225%E3%80%91%E4%BB%8EReactor%E6%A8%A1%E5%BC%8F%E4%BF%AF%E7%9E%B0Nginx%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%8F%91%E7%8E%B0%E4%BD%A0%E4%B8%8E%E9%AB%98%E6%89%8B%E7%9A%84%E5%B7%AE%E8%B7%9D%E5%B0%B1%E5%9C%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8A.md)
+
+##### [3.8.1 Redis 多线程网络模型全面揭秘](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.226%E3%80%91Redis%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E6%8F%AD%E7%A7%98.md)
+
+##### [3.8.2 网络 IO 演变发展过程和模型介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.227%E3%80%91%E7%BD%91%E7%BB%9C%20IO%20%E6%BC%94%E5%8F%98%E5%8F%91%E5%B1%95%E8%BF%87%E7%A8%8B%E5%92%8C%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D.md)
+
+##### [3.8.3 操作系统与存储：解析Linux内核全新异步IO引擎io_uring设计与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.228%E3%80%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%AD%98%E5%82%A8%EF%BC%9A%E8%A7%A3%E6%9E%90Linux%E5%86%85%E6%A0%B8%E5%85%A8%E6%96%B0%E5%BC%82%E6%AD%A5IO%E5%BC%95%E6%93%8Eio_uring%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [3.8.4 云时代，我们需要怎样的数据库？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.229%E3%80%91%E4%BA%91%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E6%80%8E%E6%A0%B7%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%9F.md)
+
+##### [3.8.5 STGW 下一代互联网标准传输协议QUIC大规模运营之路](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.230%E3%80%91STGW%20%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BA%92%E8%81%94%E7%BD%91%E6%A0%87%E5%87%86%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AEQUIC%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%BF%90%E8%90%A5%E4%B9%8B%E8%B7%AF.md)
+
+##### [3.8.6 Redis 多线程网络模型全面揭秘](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.231%E3%80%91Redis%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E6%8F%AD%E7%A7%98.md)
+
+##### [3.8.7 网络 IO 演变发展过程和模型介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.232%E3%80%91%E7%BD%91%E7%BB%9C%20IO%20%E6%BC%94%E5%8F%98%E5%8F%91%E5%B1%95%E8%BF%87%E7%A8%8B%E5%92%8C%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D.md)
+
+##### [3.8.8 编译原理初学者入门指南](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.233%E3%80%91%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%88%9D%E5%AD%A6%E8%80%85%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
+
+##### [3.8.9 分布式之系统底层原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.234%E3%80%91%E5%88%86%E5%B8%83%E5%BC%8F%E4%B9%8B%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.md)
+
+##### [3.9.1 Kubernetes 入门&进阶实战](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.235%E3%80%91Kubernetes%20%E5%85%A5%E9%97%A8%26%E8%BF%9B%E9%98%B6%E5%AE%9E%E6%88%98.md)
 <br/>
 <br/>
 
