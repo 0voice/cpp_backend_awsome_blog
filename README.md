@@ -473,6 +473,103 @@
 ##### [3.8.9 分布式之系统底层原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.234%E3%80%91%E5%88%86%E5%B8%83%E5%BC%8F%E4%B9%8B%E7%B3%BB%E7%BB%9F%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86.md)
 
 ##### [3.9.1 Kubernetes 入门&进阶实战](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.235%E3%80%91Kubernetes%20%E5%85%A5%E9%97%A8%26%E8%BF%9B%E9%98%B6%E5%AE%9E%E6%88%98.md)
+
+##### [3.9.2 万字详解：腾讯如何自研大规模知识图谱](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.236%E3%80%91%E4%B8%87%E5%AD%97%E8%AF%A6%E8%A7%A3%EF%BC%9A%E8%85%BE%E8%AE%AF%E5%A6%82%E4%BD%95%E8%87%AA%E7%A0%94%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%20Topbase.md)
+
+##### [3.9.3 浅谈如何搭建知识体系](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.237%E3%80%91%E6%B5%85%E8%B0%88%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.md)
+
+##### [3.9.4 为什么微信推荐这么快？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.238%E3%80%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B9%88%E5%BF%AB%EF%BC%9F.md)
+
+##### [3.9.5 万字详文告诉你如何做 Code Review](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.239%E3%80%91%E4%B8%87%E5%AD%97%E8%AF%A6%E6%96%87%E5%91%8A%E8%AF%89%E4%BD%A0%E5%A6%82%E4%BD%95%E5%81%9A%20Code%20Review.md)
+
+##### [3.9.6 HTTP3 原理实战](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.240%E3%80%91HTTP3%20%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98.md)
+
+##### [3.9.7 协程及c++ 20原生协程研究报告](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.241%E3%80%91%E5%8D%8F%E7%A8%8B%E5%8F%8Ac%2B%2B%2020%E5%8E%9F%E7%94%9F%E5%8D%8F%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.md)
+
+##### [3.9.8 从零开始学架构（上篇）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.242%E3%80%91%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E6%9E%B6%E6%9E%84%EF%BC%88%E4%B8%8A%E7%AF%87%EF%BC%89.md)
+
+##### [3.9.9 c++异步从理论到实践 -总览篇](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.243%E3%80%91c%2B%2B%E5%BC%82%E6%AD%A5%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5%20-%E6%80%BB%E8%A7%88%E7%AF%87.md)
+
+##### [4.1.1 大数据组件选型对比及架构](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.244%E3%80%91%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%84%E4%BB%B6%E9%80%89%E5%9E%8B%E5%AF%B9%E6%AF%94%E5%8F%8A%E6%9E%B6%E6%9E%84.md)
+
+##### [4.1.2 由CPU高负载引发内核探索之旅](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.245%E3%80%91%E7%94%B1CPU%E9%AB%98%E8%B4%9F%E8%BD%BD%E5%BC%95%E5%8F%91%E5%86%85%E6%A0%B8%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85.md)
+
+##### [4.1.3 （建议收藏）万字长文总结分布式事务，总有一款适合你](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.246%E3%80%91%EF%BC%88%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%89%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%80%BB%E7%BB%93%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%EF%BC%8C%E6%80%BB%E6%9C%89%E4%B8%80%E6%AC%BE%E9%80%82%E5%90%88%E4%BD%A0.md)
+
+##### [4.1.4 MySQL WriteSet并行复制分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.247%E3%80%91MySQL%20WriteSet%E5%B9%B6%E8%A1%8C%E5%A4%8D%E5%88%B6%E5%88%86%E6%9E%90.md)
+
+##### [4.1.5 从一道数据库面试题彻谈MySQL加锁机制](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.248%E3%80%91%E4%BB%8E%E4%B8%80%E9%81%93%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BD%BB%E8%B0%88MySQL%E5%8A%A0%E9%94%81%E6%9C%BA%E5%88%B6.md)
+
+##### [4.1.6 从零开始学架构（下篇）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.249%E3%80%91%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%AD%A6%E6%9E%B6%E6%9E%84%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89.md)
+
+##### [4.1.7 C++一行代码实现任意系统函数 Hook](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.250%E3%80%91C%2B%2B%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%BB%BB%E6%84%8F%E7%B3%BB%E7%BB%9F%E5%87%BD%E6%95%B0%20Hook.md)
+
+##### [4.1.8 如何优雅地记录操作日志？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.251%E3%80%91%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E8%AE%B0%E5%BD%95%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%EF%BC%9F.md)
+
+##### [4.1.9 美团基于知识图谱的剧本杀标准化建设与应用](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.252%E3%80%91%E7%BE%8E%E5%9B%A2%E5%9F%BA%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%9A%84%E5%89%A7%E6%9C%AC%E6%9D%80%E6%A0%87%E5%87%86%E5%8C%96%E5%BB%BA%E8%AE%BE%E4%B8%8E%E5%BA%94%E7%94%A8.md)
+
+##### [4.2.1 美团商品知识图谱的构建及应用](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.253%E3%80%91%E7%BE%8E%E5%9B%A2%E5%95%86%E5%93%81%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%9A%84%E6%9E%84%E5%BB%BA%E5%8F%8A%E5%BA%94%E7%94%A8.md)
+
+##### [4.2.2 GraphQL及元数据驱动架构在后端BFF中的实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.254%E3%80%91GraphQL%E5%8F%8A%E5%85%83%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E6%9E%B6%E6%9E%84%E5%9C%A8%E5%90%8E%E7%AB%AFBFF%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
+
+##### [4.2.3 美团外卖实时数仓建设实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.255%E3%80%91%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E5%AE%9E%E6%97%B6%E6%95%B0%E4%BB%93%E5%BB%BA%E8%AE%BE%E5%AE%9E%E8%B7%B5.md)
+
+##### [4.2.4 FlutterWeb性能优化探索与实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.256%E3%80%91FlutterWeb%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
+
+##### [4.2.5 百亿规模API网关服务Shepherd的设计与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.257%E3%80%91%E7%99%BE%E4%BA%BF%E8%A7%84%E6%A8%A1API%E7%BD%91%E5%85%B3%E6%9C%8D%E5%8A%A1Shepherd%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [4.2.6 多业务建模在美团搜索排序中的实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.258%E3%80%91%E5%A4%9A%E4%B8%9A%E5%8A%A1%E5%BB%BA%E6%A8%A1%E5%9C%A8%E7%BE%8E%E5%9B%A2%E6%90%9C%E7%B4%A2%E6%8E%92%E5%BA%8F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
+
+##### [4.2.7 Spock单元测试框架介绍以及在美团优选的实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.259%E3%80%91Spock%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D%E4%BB%A5%E5%8F%8A%E5%9C%A8%E7%BE%8E%E5%9B%A2%E4%BC%98%E9%80%89%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
+
+##### [4.2.8 一款可以让大型iOS工程编译速度提升50%的工具](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.260%E3%80%91%E4%B8%80%E6%AC%BE%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%A4%A7%E5%9E%8BiOS%E5%B7%A5%E7%A8%8B%E7%BC%96%E8%AF%91%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%8750%25%E7%9A%84%E5%B7%A5%E5%85%B7.md)
+
+##### [4.2.9 CMake基础 第1节 初识CMake](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.261%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC1%E8%8A%82%20%E5%88%9D%E8%AF%86CMake.md)
+
+##### [4.3.1 CMake基础 第2节 分离编译](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.262%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC2%E8%8A%82%20%E5%88%86%E7%A6%BB%E7%BC%96%E8%AF%91.md)
+
+##### [4.3.2 CMake基础 第3节 静态库](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.263%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC3%E8%8A%82%20%E9%9D%99%E6%80%81%E5%BA%93.md)
+
+##### [4.3.3 CMake基础 第4节 动态库](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.264%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC4%E8%8A%82%20%E5%8A%A8%E6%80%81%E5%BA%93.md)
+
+##### [4.3.4 CMake基础 第5节 安装项目](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.265%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC5%E8%8A%82%20%E5%AE%89%E8%A3%85%E9%A1%B9%E7%9B%AE.md)
+
+##### [4.3.5 CMake基础 第6节 生成类型](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.266%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC6%E8%8A%82%20%E7%94%9F%E6%88%90%E7%B1%BB%E5%9E%8B.md)
+
+##### [4.3.6 CMake基础 第7节 编译标志](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.267%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC7%E8%8A%82%20%E7%BC%96%E8%AF%91%E6%A0%87%E5%BF%97.md)
+
+##### [4.3.7 CMake基础 第8节 包含第三方库](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.268%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC8%E8%8A%82%20%E5%8C%85%E5%90%AB%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93.md)
+
+##### [4.3.8 CMake基础 第9节 使用Clang编译](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.269%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC9%E8%8A%82%20%E4%BD%BF%E7%94%A8Clang%E7%BC%96%E8%AF%91.md)
+
+##### [4.3.9 CMake基础 第10节 使用ninja构建](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.270%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC10%E8%8A%82%20%E4%BD%BF%E7%94%A8ninja%E6%9E%84%E5%BB%BA.md)
+
+##### [4.4.1 CMake基础 第9节 使用Clang编译](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.271%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC9%E8%8A%82%20%E4%BD%BF%E7%94%A8Clang%E7%BC%96%E8%AF%91.md)
+
+##### [4.4.2 CMake基础 第10节 使用ninja构建](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.272%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC10%E8%8A%82%20%E4%BD%BF%E7%94%A8ninja%E6%9E%84%E5%BB%BA.md)
+
+##### [4.4.3 CMake基础 第11节 导入目标](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.273%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC11%E8%8A%82%20%E5%AF%BC%E5%85%A5%E7%9B%AE%E6%A0%87.md)
+
+##### [4.4.4 CMake基础 第12节 设置C++标准](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.274%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC12%E8%8A%82%20%E8%AE%BE%E7%BD%AEC%2B%2B%E6%A0%87%E5%87%86.md)
+
+##### [4.4.5 CMake基础 第13节 构建子项目](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.275%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC13%E8%8A%82%20%E6%9E%84%E5%BB%BA%E5%AD%90%E9%A1%B9%E7%9B%AE.md)
+
+##### [4.4.6 CMake基础 第14节 在文件中进行变量替换](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.276%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC14%E8%8A%82%20%E5%9C%A8%E6%96%87%E4%BB%B6%E4%B8%AD%E8%BF%9B%E8%A1%8C%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2.md)
+
+##### [4.4.7 CMake基础 第15节 使用Protobuf生成源文件](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.277%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC15%E8%8A%82%20%E4%BD%BF%E7%94%A8Protobuf%E7%94%9F%E6%88%90%E6%BA%90%E6%96%87%E4%BB%B6.md)
+
+##### [4.4.8 CMake基础 第16节 创建deb文件](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.278%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC16%E8%8A%82%20%E5%88%9B%E5%BB%BAdeb%E6%96%87%E4%BB%B6.md)
+
+##### [4.4.9 CMake基础 第17节 Clang分析器](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.279%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC17%E8%8A%82%20Clang%E5%88%86%E6%9E%90%E5%99%A8.md)
+
+##### [4.5.1 CMake基础 第18节 Boost单元测试框架](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.280%E3%80%91CMake%E5%9F%BA%E7%A1%80%20%E7%AC%AC18%E8%8A%82%20Boost%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6.md)
+
+##### [4.5.2 五种网络IO模型详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.281%E3%80%91%E4%BA%94%E7%A7%8D%E7%BD%91%E7%BB%9CIO%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3.md)
+
+##### [4.5.3 Redis不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.282%E3%80%91Redis%E4%B8%8D%E6%98%AF%E4%B8%80%E7%9B%B4%E5%8F%B7%E7%A7%B0%E5%8D%95%E7%BA%BF%E7%A8%8B%E6%95%88%E7%8E%87%E4%B9%9F%E5%BE%88%E9%AB%98%E5%90%97%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%88%E9%87%87%E7%94%A8%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%BA%86%EF%BC%9F.md)
+
+##### [4.5.4 C++ 协程的近况、设计与实现中的细节和决策](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.283%E3%80%91C%2B%2B%20%E5%8D%8F%E7%A8%8B%E7%9A%84%E8%BF%91%E5%86%B5%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E4%B8%AD%E7%9A%84%E7%BB%86%E8%8A%82%E5%92%8C%E5%86%B3%E7%AD%96.md)
+
 <br/>
 <br/>
 
