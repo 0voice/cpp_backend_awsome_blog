@@ -654,6 +654,137 @@
 
 ##### [5.1.1 通过Redis学习事件驱动设计](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.325%E3%80%91%E9%80%9A%E8%BF%87Redis%E5%AD%A6%E4%B9%A0%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1.md)
 
+##### [5.1.2 TCP通信接收数据不完整的解决方法](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.326%E3%80%91TCP%E9%80%9A%E4%BF%A1%E6%8E%A5%E6%94%B6%E6%95%B0%E6%8D%AE%E4%B8%8D%E5%AE%8C%E6%95%B4%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
+
+##### [5.1.3 图解｜揭开协程的神秘面纱](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.327%E3%80%91%E5%9B%BE%E8%A7%A3%EF%BD%9C%E6%8F%AD%E5%BC%80%E5%8D%8F%E7%A8%8B%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
+
+##### [5.1.4 文件的 io 栈，你真的知道了吗](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.328%E3%80%91%E6%96%87%E4%BB%B6%E7%9A%84%20io%20%E6%A0%88%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%9F%A5%E9%81%93%E4%BA%86%E5%90%97.md)
+
+##### [5.1.5 如何用300行代码实现一个完整的线程池](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.329%E3%80%91%E5%A6%82%E4%BD%95%E7%94%A8300%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0.md)
+
+##### [5.1.6 从一次线上问题说起，详解 TCP 半连接队列、全连接队列](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.340%E3%80%91%E4%BB%8E%E4%B8%80%E6%AC%A1%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E8%AF%B4%E8%B5%B7%EF%BC%8C%E8%AF%A6%E8%A7%A3%20TCP%20%E5%8D%8A%E8%BF%9E%E6%8E%A5%E9%98%9F%E5%88%97%E3%80%81%E5%85%A8%E8%BF%9E%E6%8E%A5%E9%98%9F%E5%88%97.md)
+
+##### [5.1.7 浅析进程间通信的几种方式（含实例源码）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.341%E3%80%91%E6%B5%85%E6%9E%90%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%88%E5%90%AB%E5%AE%9E%E4%BE%8B%E6%BA%90%E7%A0%81%EF%BC%89.md)
+
+##### [5.1.8 超详细的网络抓包神器 tcpdump 使用指南](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.342%E3%80%91%E8%B6%85%E8%AF%A6%E7%BB%86%E7%9A%84%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8C%85%E7%A5%9E%E5%99%A8%20tcpdump%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+
+##### [5.1.9 原来 mmap 这么简单](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.343%E3%80%91%E5%8E%9F%E6%9D%A5%20mmap%20%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95.md)
+
+##### [5.2.1 深入理解 http 反向代理（nginx）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.344%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20http%20%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%EF%BC%88nginx%EF%BC%89.md)
+
+##### [5.2.2 C++使用protobuf实现序列化与反序列化](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.345%E3%80%91C%2B%2B%E4%BD%BF%E7%94%A8protobuf%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+
+##### [5.2.3 Redis原理和机制详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.346%E3%80%91Redis%E5%8E%9F%E7%90%86%E5%92%8C%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
+
+##### [5.2.4 网络丢包故障如何定位？如何解决？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.347%E3%80%91%E7%BD%91%E7%BB%9C%E4%B8%A2%E5%8C%85%E6%95%85%E9%9A%9C%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8D%EF%BC%9F%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%EF%BC%9F.md)
+
+##### [5.2.5 Linux进程地址空间与进程内存布局详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.348%E3%80%91Linux%E8%BF%9B%E7%A8%8B%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E4%B8%8E%E8%BF%9B%E7%A8%8B%E5%86%85%E5%AD%98%E5%B8%83%E5%B1%80%E8%AF%A6%E8%A7%A3.md)
+
+##### [5.2.6 浅谈有栈协程与无栈协程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.349%E3%80%91%E6%B5%85%E8%B0%88%E6%9C%89%E6%A0%88%E5%8D%8F%E7%A8%8B%E4%B8%8E%E6%97%A0%E6%A0%88%E5%8D%8F%E7%A8%8B.md)
+
+##### [5.2.7 Nginx 性能优化（吐血总结）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.350%E3%80%91Nginx%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%88%E5%90%90%E8%A1%80%E6%80%BB%E7%BB%93%EF%BC%89.md)
+
+##### [5.2.8 TCP通信过程详解以及tcp长连接和短连接](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.351%E3%80%91TCP%E9%80%9A%E4%BF%A1%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3%E4%BB%A5%E5%8F%8Atcp%E9%95%BF%E8%BF%9E%E6%8E%A5%E5%92%8C%E7%9F%AD%E8%BF%9E%E6%8E%A5.md)
+
+##### [5.2.9 Linux系统编程之进程间通信：共享内存](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.352%E3%80%91Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%9A%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98.md)
+
+##### [5.3.1 内存泄漏的原因，内存泄漏如何避免？内存泄漏如何定位？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.353%E3%80%91%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8C%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%EF%BC%9F%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E5%A6%82%E4%BD%95%E5%AE%9A%E4%BD%8D%EF%BC%9F.md)
+
+##### [5.3.2 线上大量CLOSE_WAIT的原因深入分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.354%E3%80%91%E7%BA%BF%E4%B8%8A%E5%A4%A7%E9%87%8FCLOSE_WAIT%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
+
+##### [5.3.3 一文弄懂tcp连接中各种状态及故障排查](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.355%E3%80%91%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82tcp%E8%BF%9E%E6%8E%A5%E4%B8%AD%E5%90%84%E7%A7%8D%E7%8A%B6%E6%80%81%E5%8F%8A%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+
+##### [5.3.4 QQ音乐高可用架构体系](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.356%E3%80%91QQ%E9%9F%B3%E4%B9%90%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB.md)
+
+##### [5.3.5 QQ 浏览器搜索相关性实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.357%E3%80%91QQ%20%E6%B5%8F%E8%A7%88%E5%99%A8%E6%90%9C%E7%B4%A2%E7%9B%B8%E5%85%B3%E6%80%A7%E5%AE%9E%E8%B7%B5.md)
+
+##### [5.3.6 ClickHouse 查询优化详细介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.358%E3%80%91ClickHouse%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+
+##### [5.3.7 腾讯云OCR性能是如何提升2倍的](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.359%E3%80%91%E8%85%BE%E8%AE%AF%E4%BA%91OCR%E6%80%A7%E8%83%BD%E6%98%AF%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%872%E5%80%8D%E7%9A%84.md)
+
+##### [5.3.8 一文读懂数据库优化之分库分表](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.360%E3%80%91%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E4%B9%8B%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8.md)
+
+##### [5.3.9 Linux下跨语言调用C++实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.361%E3%80%91Linux%E4%B8%8B%E8%B7%A8%E8%AF%AD%E8%A8%80%E8%B0%83%E7%94%A8C%2B%2B%E5%AE%9E%E8%B7%B5.md)
+
+##### [5.4.1 数据库异常智能分析与诊断](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.362%E3%80%91%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%82%E5%B8%B8%E6%99%BA%E8%83%BD%E5%88%86%E6%9E%90%E4%B8%8E%E8%AF%8A%E6%96%AD.md)
+
+##### [5.4.2 标准化思想及组装式架构在后端BFF中的实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.363%E3%80%91%E6%A0%87%E5%87%86%E5%8C%96%E6%80%9D%E6%83%B3%E5%8F%8A%E7%BB%84%E8%A3%85%E5%BC%8F%E6%9E%B6%E6%9E%84%E5%9C%A8%E5%90%8E%E7%AB%AFBFF%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.md)
+
+##### [5.4.3 基于代价的慢查询优化建议](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.364%E3%80%91%E5%9F%BA%E4%BA%8E%E4%BB%A3%E4%BB%B7%E7%9A%84%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE.md)
+
+##### [5.4.4 设计模式二三事](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.365%E3%80%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%BA%8C%E4%B8%89%E4%BA%8B.md)
+
+##### [5.4.5 即时通信IM核心能力及应用场景](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.366%E3%80%91%E5%8D%B3%E6%97%B6%E9%80%9A%E4%BF%A1IM%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+
+##### [5.4.6 新知 腾讯云视立方播放器技术实现与应用](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.367%E3%80%91%E6%96%B0%E7%9F%A5%20%20%E8%85%BE%E8%AE%AF%E4%BA%91%E8%A7%86%E7%AB%8B%E6%96%B9%E6%92%AD%E6%94%BE%E5%99%A8%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E5%BA%94%E7%94%A8.md)
+
+##### [5.4.7 AXP-QUIC：自适应X路QUIC网络传输加速](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.368%E3%80%91AXP-QUIC%EF%BC%9A%E8%87%AA%E9%80%82%E5%BA%94X%E8%B7%AFQUIC%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E5%8A%A0%E9%80%9F.md)
+
+##### [5.4.8 SRS5优化：如何将DVR性能提升一倍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.369%E3%80%91SRS5%E4%BC%98%E5%8C%96%EF%BC%9A%E5%A6%82%E4%BD%95%E5%B0%86DVR%E6%80%A7%E8%83%BD%E6%8F%90%E5%8D%87%E4%B8%80%E5%80%8D.md)
+
+##### [5.4.9 SRS配置升级，云原生友好的配置能力](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.370%E3%80%91SRS%E9%85%8D%E7%BD%AE%E5%8D%87%E7%BA%A7%EF%BC%8C%E4%BA%91%E5%8E%9F%E7%94%9F%E5%8F%8B%E5%A5%BD%E7%9A%84%E9%85%8D%E7%BD%AE%E8%83%BD%E5%8A%9B.md)
+
+##### [5.5.1 linux服务器网络编程之线程模型](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.371%E3%80%91linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B.md)
+
+##### [5.5.2 腾讯跟阿里两位王者之间的对比](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.372%E3%80%91%E8%85%BE%E8%AE%AF%E8%B7%9F%E9%98%BF%E9%87%8C%E4%B8%A4%E4%BD%8D%E7%8E%8B%E8%80%85%E4%B9%8B%E9%97%B4%E7%9A%84%E5%AF%B9%E6%AF%94.md)
+
+##### [5.5.3 IM（即时通讯）服务端](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.373%E3%80%91IM%EF%BC%88%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%EF%BC%89%E6%9C%8D%E5%8A%A1%E7%AB%AF.md)
+
+##### [5.5.4 一文带你了解大厂亿级并发下高性能服务器是如何实现的](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.374%E3%80%91%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E5%A4%A7%E5%8E%82%E4%BA%BF%E7%BA%A7%E5%B9%B6%E5%8F%91%E4%B8%8B%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84%EF%BC%81.md)
+
+##### [5.5.5 你真的懂Redis与MySQL双写一致性如何保证吗](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.375%E3%80%91%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%87%82Redis%E4%B8%8EMySQL%E5%8F%8C%E5%86%99%E4%B8%80%E8%87%B4%E6%80%A7%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E5%90%97%EF%BC%9F.md)
+
+##### [5.5.6 基于后端开发Redisson实现分布式锁源码分析解读](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.376%E3%80%91%E5%9F%BA%E4%BA%8E%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91Redisson%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E8%A7%A3%E8%AF%BB.md)
+
+##### [5.5.7 聊聊对不同IO模型的理解 (阻塞非阻塞IO，同步异步IO](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.377%E3%80%91%E8%81%8A%E8%81%8A%E5%AF%B9%E4%B8%8D%E5%90%8CIO%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%90%86%E8%A7%A3%20(%E9%98%BB%E5%A1%9E%E9%9D%9E%E9%98%BB%E5%A1%9EIO%EF%BC%8C%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5IO).md)
+
+##### [5.5.8 Redis与Memcache对比](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.378%E3%80%91Redis%E4%B8%8EMemcache%E5%AF%B9%E6%AF%94.md)
+
+##### [5.5.9 Nginx高效的原因，你都了解了吗](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.379%E3%80%91Nginx%E9%AB%98%E6%95%88%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8C%E4%BD%A0%E9%83%BD%E4%BA%86%E8%A7%A3%E4%BA%86%E5%90%97.md)
+
+##### [5.6.1 深入理解 ProtoBuf 原理与工程实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.380%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20ProtoBuf%20%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.md)
+
+##### [5.6.2 从抖音到火山引擎——看流媒体技术演进和机会](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.381%E3%80%91%E4%BB%8E%E6%8A%96%E9%9F%B3%E5%88%B0%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E2%80%94%E2%80%94%E7%9C%8B%E6%B5%81%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E5%92%8C%E6%9C%BA%E4%BC%9A.md)
+
+##### [5.6.3 阿里云全球实时传输网络GRTN—QOE优化实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.382%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%85%A8%E7%90%83%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93%E7%BD%91%E7%BB%9CGRTN%E2%80%94QOE%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.md)
+
+##### [5.6.3 腾讯云实时音视频出海技术实践及落地](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.383%E3%80%91%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%97%B6%E9%9F%B3%E8%A7%86%E9%A2%91%E5%87%BA%E6%B5%B7%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E5%8F%8A%E8%90%BD%E5%9C%B0.md)
+
+##### [5.6.3 MPEG音频编码三十年](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.384%E3%80%91MPEG%E9%9F%B3%E9%A2%91%E7%BC%96%E7%A0%81%E4%B8%89%E5%8D%81%E5%B9%B4.md)
+
+##### [5.6.3 利用WebTransport进行现场视频流注入](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.385%E3%80%91%E5%88%A9%E7%94%A8WebTransport%E8%BF%9B%E8%A1%8C%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E6%B5%81%E6%B3%A8%E5%85%A5.md)
+
+##### [5.6.3 WEBRTC 笔记](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.386%E3%80%91WEBRTC%20%E7%AC%94%E8%AE%B0.md)
+
+##### [5.6.3 想学习音视频开发，感觉网上的资料很少？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.387%E3%80%91%E6%83%B3%E5%AD%A6%E4%B9%A0%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%91%EF%BC%8C%E6%84%9F%E8%A7%89%E7%BD%91%E4%B8%8A%E7%9A%84%E8%B5%84%E6%96%99%E5%BE%88%E5%B0%91%EF%BC%9F.md)
+
+##### [5.6.3 WebRTC开源项目-手把手教你搭建AppRTC](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.388%E3%80%91WebRTC%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%90%AD%E5%BB%BAAppRTC.md)
+
+##### [5.6.3 最全的MSVC编译参数，收藏备用，MinGW与MSVC编译的区别](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.389%E3%80%91%E6%9C%80%E5%85%A8%E7%9A%84MSVC%E7%BC%96%E8%AF%91%E5%8F%82%E6%95%B0%EF%BC%8C%E6%94%B6%E8%97%8F%E5%A4%87%E7%94%A8%EF%BC%8CMinGW%E4%B8%8EMSVC%E7%BC%96%E8%AF%91%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+##### [5.6.3 针对初学者的 20 多个 FFmpeg 命令](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.390%E3%80%91%E9%92%88%E5%AF%B9%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%2020%20%E5%A4%9A%E4%B8%AA%20FFmpeg%20%E5%91%BD%E4%BB%A4.md)
+
+##### [5.6.3 谷歌开源、高性能RPC框架：gRPC 使用体验](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.391%E3%80%91%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90%E3%80%81%E9%AB%98%E6%80%A7%E8%83%BDRPC%E6%A1%86%E6%9E%B6%EF%BC%9AgRPC%20%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C.md)
+
+##### [5.6.3 C++音视频开发的技术要点](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.392%E3%80%91C%2B%2B%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%91%E7%9A%84%E6%8A%80%E6%9C%AF%E8%A6%81%E7%82%B9.md)
+
+##### [5.6.3 FFmpeg使用小结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.393%E3%80%91FFmpeg%E4%BD%BF%E7%94%A8%E5%B0%8F%E7%BB%93.md)
+
+##### [5.6.3 2022技术展望｜开源十年，WebRTC 的现状与未来](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.394%E3%80%912022%E6%8A%80%E6%9C%AF%E5%B1%95%E6%9C%9B%EF%BD%9C%E5%BC%80%E6%BA%90%E5%8D%81%E5%B9%B4%EF%BC%8CWebRTC%20%E7%9A%84%E7%8E%B0%E7%8A%B6%E4%B8%8E%E6%9C%AA%E6%9D%A5.md)
+
+##### [5.6.3 FFmpeg入门宝典，音视频流媒体开发学习，一篇看到就要收藏的文章（附20个视频资料）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.395%E3%80%91FFmpeg%E5%85%A5%E9%97%A8%E5%AE%9D%E5%85%B8%EF%BC%8C%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%B8%80%E7%AF%87%E7%9C%8B%E5%88%B0%E5%B0%B1%E8%A6%81%E6%94%B6%E8%97%8F%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%88%E9%99%8420%E4%B8%AA%E8%A7%86%E9%A2%91%E8%B5%84%E6%96%99%EF%BC%89.md)
+
+##### [5.6.3 FFmpeg的结构和命令行工具（在线介绍）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.396%E3%80%91FFmpeg%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%EF%BC%88%E5%9C%A8%E7%BA%BF%E4%BB%8B%E7%BB%8D%EF%BC%89.md)
+
+##### [5.6.3 音视频编解码常用知识点](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.397%E3%80%91%E9%9F%B3%E8%A7%86%E9%A2%91%E7%BC%96%E8%A7%A3%E7%A0%81%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+
+##### [5.6.3 WebRTC 发送方码率预估实现解析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.398%E3%80%91WebRTC%20%E5%8F%91%E9%80%81%E6%96%B9%E7%A0%81%E7%8E%87%E9%A2%84%E4%BC%B0%E5%AE%9E%E7%8E%B0%E8%A7%A3%E6%9E%90.md)
+
+##### [5.6.3 C++ 开发者的机会在哪里？盘点 2022 好的CC++ 就业方向](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.399%E3%80%91C%2B%2B%20%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F%E7%9B%98%E7%82%B9%202022%20%E5%A5%BD%E7%9A%84CC%2B%2B%20%E5%B0%B1%E4%B8%9A%E6%96%B9%E5%90%91.md)
+
+##### [5.6.3 WebRTC 源码分析 -- RTC_CHECK](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.400%E3%80%91WebRTC%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%20--%20RTC_CHECK.md)
+
+
 <br/>
 <br/>
 
