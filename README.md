@@ -984,7 +984,121 @@
 
 ##### [6.8.4 Redis的线程模型和异步机制](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.500%E3%80%91%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E3%80%90%E4%B8%80%E5%A4%A7%E6%B3%A2%E5%B9%B2%E8%B4%A7%E7%9F%A5%E8%AF%86%E3%80%91Redis%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%BC%82%E6%AD%A5%E6%9C%BA%E5%88%B6.md)
 
+##### [6.8.5 Linux的虚拟内存详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.501%E3%80%91Linux%E7%9A%84%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E8%AF%A6%E8%A7%A3%EF%BC%88MMU%E3%80%81%E9%A1%B5%E8%A1%A8%E7%BB%93%E6%9E%84%EF%BC%89.md)
 
+##### [6.8.6 各大厂c++ linux后端开发岗位要求汇总](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.502%E3%80%91%E5%90%84%E5%A4%A7%E5%8E%82c%2B%2B%20linux%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B2%97%E4%BD%8D%E8%A6%81%E6%B1%82%E6%B1%87%E6%80%BB.md)
+
+##### [6.8.7 内存优化-如何使用tcmalloc来提升内存性能？提升的结果太不可思议](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.503%E3%80%91%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8tcmalloc%E6%9D%A5%E6%8F%90%E5%8D%87%E5%86%85%E5%AD%98%E6%80%A7%E8%83%BD%EF%BC%9F%E6%8F%90%E5%8D%87%E7%9A%84%E7%BB%93%E6%9E%9C%E5%A4%AA%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE.md)
+
+##### [6.8.8 一文搞懂Linux进程调度原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.504%E3%80%91%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82Linux%E8%BF%9B%E7%A8%8B%E8%B0%83%E5%BA%A6%E5%8E%9F%E7%90%86.md)
+
+##### [6.8.9 盘点后端开发那些值得学习的优秀开源项目](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.505%E3%80%91%E7%9B%98%E7%82%B9%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E9%82%A3%E4%BA%9B%E5%80%BC%E5%BE%97%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BC%98%E7%A7%80%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE.md)
+
+##### [6.9.1 关于linux进程间的close-on-exec机制](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.506%E3%80%91%E5%85%B3%E4%BA%8Elinux%E8%BF%9B%E7%A8%8B%E9%97%B4%E7%9A%84close-on-exec%E6%9C%BA%E5%88%B6.md)
+
+##### [6.9.2 网络编程手绘TCP状态机](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.507%E3%80%91%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E6%89%8B%E7%BB%98TCP%E7%8A%B6%E6%80%81%E6%9C%BA.md)
+
+##### [6.9.3 从进程和线程的创建过程来看进程和线程的区别](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.508%E3%80%91%E4%BB%8E%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%88%9B%E5%BB%BA%E8%BF%87%E7%A8%8B%E6%9D%A5%E7%9C%8B%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+##### [6.9.4 超详细讲解Linux中的基础IO](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.509%E3%80%91%E8%B6%85%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3Linux%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%A1%80IO.md)
+
+##### [6.9.5 操作系统：文件系统的实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.510%E3%80%91%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%9A%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+
+##### [6.9.6 Linux网络分析必备技能：tcpdump实战详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.511%E3%80%91Linux%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%E5%BF%85%E5%A4%87%E6%8A%80%E8%83%BD%EF%BC%9Atcpdump%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3.md)
+
+##### [6.9.7 大厂面试题之计算机网络重点篇](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.512%E3%80%91%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%87%8D%E7%82%B9%E7%AF%87(%E9%99%84%E7%AD%94%E6%A1%88).md)
+
+##### [6.9.8 深入 malloc 函数，带你真正理解内存分配](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.513%E3%80%91%E6%B7%B1%E5%85%A5%20malloc%20%E5%87%BD%E6%95%B0%EF%BC%8C%E5%B8%A6%E4%BD%A0%E7%9C%9F%E6%AD%A3%E7%90%86%E8%A7%A3%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%EF%BC%81.md)
+
+##### [6.9.9 面试必问的epoll技术，从内核源码出发彻底搞懂epoll](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.514%E3%80%91%E9%9D%A2%E8%AF%95%E5%BF%85%E9%97%AE%E7%9A%84epoll%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BB%8E%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81%E5%87%BA%E5%8F%91%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82epoll.md)
+
+##### [7.1.1 从进入内核态看内存管理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.515%E3%80%91%E4%BB%8E%E8%BF%9B%E5%85%A5%E5%86%85%E6%A0%B8%E6%80%81%E7%9C%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+
+##### [7.1.2 「Linux」多线程详解，一篇文章彻底搞懂多线程中各个难点](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.516%E3%80%91%E3%80%8CLinux%E3%80%8D%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AF%A6%E8%A7%A3%EF%BC%8C%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%AD%E5%90%84%E4%B8%AA%E9%9A%BE%E7%82%B9.md)
+
+##### [7.1.3 百度 C++ 工程师的那些极限优化（内存篇）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.517%E3%80%91%E7%99%BE%E5%BA%A6%20C%2B%2B%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E9%82%A3%E4%BA%9B%E6%9E%81%E9%99%90%E4%BC%98%E5%8C%96%EF%BC%88%E5%86%85%E5%AD%98%E7%AF%87%EF%BC%89.md)
+
+##### [7.1.4 malloc内存分配过程详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.518%E3%80%91malloc%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
+
+##### [7.1.5 TCP BBR拥塞控制算法深度解析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.519%E3%80%91TCP%20BBR%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+
+##### [7.1.6 Linux完全公平调度算法原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.520%E3%80%91Linux%E5%AE%8C%E5%85%A8%E5%85%AC%E5%B9%B3%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.1.7 如何快速地进出——C++ 读写数据 IO 性能优化](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.521%E3%80%91%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E5%9C%B0%E8%BF%9B%E5%87%BA%E2%80%94%E2%80%94C%2B%2B%20%E8%AF%BB%E5%86%99%E6%95%B0%E6%8D%AE%20IO%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
+
+##### [7.1.8 如何解决tcp通信中的粘包问题？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.522%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3tcp%E9%80%9A%E4%BF%A1%E4%B8%AD%E7%9A%84%E7%B2%98%E5%8C%85%E9%97%AE%E9%A2%98%EF%BC%9F.md)
+
+##### [7.1.9 多线程还是多进程的选择及区别](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.523%E3%80%91%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%BF%98%E6%98%AF%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%9A%84%E9%80%89%E6%8B%A9%E5%8F%8A%E5%8C%BA%E5%88%AB.md)
+
+##### [7.2.1 最常见的linux网络编程面试题](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.524%E3%80%91%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E3%80%90%E5%A5%BD%E6%96%87%E6%94%B6%E8%97%8F%E3%80%91.md)
+
+##### [7.2.2 内存优化-使用tcmalloc分析解决内存泄漏和内存暴涨问题](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.525%E3%80%91%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96-%E4%BD%BF%E7%94%A8tcmalloc%E5%88%86%E6%9E%90%E8%A7%A3%E5%86%B3%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E5%92%8C%E5%86%85%E5%AD%98%E6%9A%B4%E6%B6%A8%E9%97%AE%E9%A2%98.md)
+
+##### [7.2.3 Linux服务器开发,fastdfs架构分析和配置](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.526%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2Cfastdfs%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E5%92%8C%E9%85%8D%E7%BD%AE.md)
+
+##### [7.2.4 用户态协议栈](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.527%E3%80%91%E7%94%A8%E6%88%B7%E6%80%81%E5%8D%8F%E8%AE%AE%E6%A0%88.md)
+
+##### [7.2.5 Linux服务器开发,手写死锁检测组件](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.528%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E6%89%8B%E5%86%99%E6%AD%BB%E9%94%81%E6%A3%80%E6%B5%8B%E7%BB%84%E4%BB%B6.md)
+
+##### [7.2.6 海量数据去重hash与布隆过滤器](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.529%E3%80%91%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%8E%BB%E9%87%8Dhash%E4%B8%8E%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8.md)
+
+##### [7.2.7 Linux服务器开发,内存池原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.530%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E5%86%85%E5%AD%98%E6%B1%A0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.2.8 基础的网络服务器开发](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.531%E3%80%91%E5%9F%BA%E7%A1%80%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91.md)
+
+##### [7.2.9 实现高并发http 服务器](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.532%E3%80%91%E5%AE%9E%E7%8E%B0%E9%AB%98%E5%B9%B6%E5%8F%91http%20%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
+##### [7.3.1 nginx过滤器模块](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.533%E3%80%91nginx%E8%BF%87%E6%BB%A4%E5%99%A8%E6%A8%A1%E5%9D%97.md)
+
+##### [7.3.2 随处可见的红黑树](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.534%E3%80%91%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81%E7%9A%84%E7%BA%A2%E9%BB%91%E6%A0%91.md)
+
+##### [7.3.3 服务器开发,无锁消息队列实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.535%E3%80%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E6%97%A0%E9%94%81%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0(%E5%88%9D%E6%AD%A5%E8%AE%A4%E8%AF%86).md)
+
+##### [7.3.4 Linux系统中的文件操作](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.536%E3%80%91Linux%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.md)
+
+##### [7.3.5 Linux服务器开发,异步请求池框架实现，协程前传](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.537%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E5%BC%82%E6%AD%A5%E8%AF%B7%E6%B1%82%E6%B1%A0%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%EF%BC%8C%E5%8D%8F%E7%A8%8B%E5%89%8D%E4%BC%A0.md)
+
+##### [7.3.6 Linux服务器开发,原子操作CAS与锁实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.538%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9CCAS%E4%B8%8E%E9%94%81%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.3.7 Linux服务器开发,线程池原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.539%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.3.8 Linux服务器开发,应用层协议设计ProtoBufThrift](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.540%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE%E8%AE%BE%E8%AE%A1ProtoBufThrift.md)
+
+##### [7.3.9 Linux服务器开发,stl容器，智能指针，正则表达式(C++STL中的智能指针)](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.541%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2Cstl%E5%AE%B9%E5%99%A8%EF%BC%8C%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88%EF%BC%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F(C%2B%2BSTL%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88).md)
+
+##### [7.4.1 协程的设计原理与汇编实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.542%E3%80%91%E5%8D%8F%E7%A8%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E6%B1%87%E7%BC%96%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.4.2 redis计数，布隆过滤器，hyperloglog](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.543%E3%80%91redis%E8%AE%A1%E6%95%B0%EF%BC%8C%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8%EF%BC%8Chyperloglog.md)
+
+##### [7.4.3 Linux服务器开发,Makefilecmakeconfigure](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.544%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2CMakefilecmakeconfigure.md)
+
+##### [7.4.4 磁盘存储链式的 B 树与 B+树](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.545%E3%80%91%E7%A3%81%E7%9B%98%E5%AD%98%E5%82%A8%E9%93%BE%E5%BC%8F%E7%9A%84%20B%20%E6%A0%91%E4%B8%8E%20B%2B%E6%A0%91.md)
+
+##### [7.4.5 互斥锁、读写锁、自旋锁，以及原子操作指令xaddl、cmpxchg的使用场景剖析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.546%E3%80%91%E4%BA%92%E6%96%A5%E9%94%81%E3%80%81%E8%AF%BB%E5%86%99%E9%94%81%E3%80%81%E8%87%AA%E6%97%8B%E9%94%81%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C%E6%8C%87%E4%BB%A4xaddl%E3%80%81cmpxchg%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%89%96%E6%9E%90.md)
+
+##### [7.4.6 网络通信模型和网络IO管理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.547%E3%80%91%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%BD%91%E7%BB%9CIO%E7%AE%A1%E7%90%86.md)
+
+##### [7.4.7 MYSQL---服务器配置相关问题](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.548%E3%80%91MYSQL---%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+
+##### [7.4.8 Linux服务器开发,定时器方案红黑树，时间轮，最小堆](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.549%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%2C%E5%AE%9A%E6%97%B6%E5%99%A8%E6%96%B9%E6%A1%88%E7%BA%A2%E9%BB%91%E6%A0%91%EF%BC%8C%E6%97%B6%E9%97%B4%E8%BD%AE%EF%BC%8C%E6%9C%80%E5%B0%8F%E5%A0%86.md)
+
+##### [7.4.9 Posix API 与 网络协议栈 详细介绍](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.550%E3%80%91Posix%20API%20%E4%B8%8E%20%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%A0%88%20%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+
+##### [7.5.1 Linux服务器百万并发实现与问题排查](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.551%E3%80%91Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%99%BE%E4%B8%87%E5%B9%B6%E5%8F%91%E5%AE%9E%E7%8E%B0%E4%B8%8E%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5.md)
+
+##### [7.5.2 ZMQ无锁队列的原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.552%E3%80%91ZMQ%E6%97%A0%E9%94%81%E9%98%9F%E5%88%97%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.5.3 redis7.0源码阅读（四）：Redis中的IO多线程（线程池）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.553%E3%80%91redis7.0%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9ARedis%E4%B8%AD%E7%9A%84IO%E5%A4%9A%E7%BA%BF%E7%A8%8B%EF%BC%88%E7%BA%BF%E7%A8%8B%E6%B1%A0%EF%BC%89.md)
+
+##### [7.5.4 SQL之增删改查命令操作详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.554%E3%80%91SQL%E4%B9%8B%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C%E8%AF%A6%E8%A7%A3.md)
+
+##### [7.5.5 数据库设计的三范式和反范式](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.555%E3%80%91%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%B8%89%E8%8C%83%E5%BC%8F%E5%92%8C%E5%8F%8D%E8%8C%83%E5%BC%8F.md)
+
+##### [7.5.6 基于C++11实现的高效线程池及工作原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.556%E3%80%91%E5%9F%BA%E4%BA%8EC%2B%2B11%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%AB%98%E6%95%88%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%8F%8A%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)
+
+##### [7.5.7 Linux内存管理-详解mmap原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.557%E3%80%91Linux%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-%E8%AF%A6%E8%A7%A3mmap%E5%8E%9F%E7%90%86.md)
+
+##### [7.5.8 通过实战理解CPU上下文切换](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.558%E3%80%91%E9%80%9A%E8%BF%87%E5%AE%9E%E6%88%98%E7%90%86%E8%A7%A3CPU%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2.md)
 
 <br/>
 <br/>
