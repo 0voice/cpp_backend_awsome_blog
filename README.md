@@ -1100,6 +1100,140 @@
 
 ##### [7.5.8 通过实战理解CPU上下文切换](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.558%E3%80%91%E9%80%9A%E8%BF%87%E5%AE%9E%E6%88%98%E7%90%86%E8%A7%A3CPU%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2.md)
 
+##### [7.5.9 Linux IO复用中select poll epoll模型的介绍及其优缺点的比较](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.559%E3%80%91Linux%20IO%E5%A4%8D%E7%94%A8%E4%B8%ADselect%20poll%20epoll%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%85%B6%E4%BC%98%E7%BC%BA%E7%82%B9%E7%9A%84%E6%AF%94%E8%BE%83.md)
+
+##### [7.6.1 Linux内核时钟系统和定时器实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.560%E3%80%91Linux%E5%86%85%E6%A0%B8%E6%97%B6%E9%92%9F%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%AE%9A%E6%97%B6%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.6.2 linux下C++多线程并发之原子操作与无锁编程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.561%E3%80%91linux%E4%B8%8BC%2B%2B%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%B9%B6%E5%8F%91%E4%B9%8B%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C%E4%B8%8E%E6%97%A0%E9%94%81%E7%BC%96%E7%A8%8B.md)
+
+##### [7.6.3 Linux网络编程——tcp并发服务器（多线程）实例分享](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.562%E3%80%91Linux%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E2%80%94%E2%80%94tcp%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E5%A4%9A%E7%BA%BF%E7%A8%8B%EF%BC%89%E5%AE%9E%E4%BE%8B%E5%88%86%E4%BA%AB.md)
+
+##### [7.6.4 linux下waitwaitpid处理僵死进程详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.563%E3%80%91linux%E4%B8%8Bwaitwaitpid%E5%A4%84%E7%90%86%E5%83%B5%E6%AD%BB%E8%BF%9B%E7%A8%8B%E8%AF%A6%E8%A7%A3(SIGCHLD%E4%BF%A1%E5%8F%B7).md)
+
+##### [7.6.5 从TCP协议到TCP通信的各种异常现象和分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.564%E3%80%91%E4%BB%8ETCP%E5%8D%8F%E8%AE%AE%E5%88%B0TCP%E9%80%9A%E4%BF%A1%E7%9A%84%E5%90%84%E7%A7%8D%E5%BC%82%E5%B8%B8%E7%8E%B0%E8%B1%A1%E5%92%8C%E5%88%86%E6%9E%90.md)
+
+##### [7.6.6 低延迟场景下的性能优化实践](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.565%E3%80%91%E4%BD%8E%E5%BB%B6%E8%BF%9F%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.md)
+
+##### [7.6.7 万字长文漫谈高可用高并发技术](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.566%E3%80%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%BC%AB%E8%B0%88%E9%AB%98%E5%8F%AF%E7%94%A8%E9%AB%98%E5%B9%B6%E5%8F%91%E6%8A%80%E6%9C%AF.md)
+
+##### [7.6.8 万字长文讲解 linux内核性能调优](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.567%E3%80%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E8%AE%B2%E8%A7%A3%20%20linux%E5%86%85%E6%A0%B8%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+
+##### [7.6.9 详解进程的虚拟内存，物理内存，共享内存](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.568%E3%80%91%E8%AF%A6%E8%A7%A3%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%EF%BC%8C%E7%89%A9%E7%90%86%E5%86%85%E5%AD%98%EF%BC%8C%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98.md)
+
+##### [7.7.1 浅谈TCPIP网络编程中socket的行为](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.569%E3%80%91%E6%B5%85%E8%B0%88TCPIP%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E4%B8%ADsocket%E7%9A%84%E8%A1%8C%E4%B8%BA.md)
+
+##### [7.7.2 内存碎片优化](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.570%E3%80%91%E5%86%85%E5%AD%98%E7%A2%8E%E7%89%87%E4%BC%98%E5%8C%96%EF%BC%88%E5%86%85%E5%AD%98%E6%B1%A0%EF%BC%89.md)
+
+##### [7.7.3 websocket协议介绍与基于reactor模型的websocket服务器实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.571%E3%80%91websocket%E5%8D%8F%E8%AE%AE%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%9F%BA%E4%BA%8Ereactor%E6%A8%A1%E5%9E%8B%E7%9A%84websocket%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.7.4 redis7.0源码阅读（三）：哈希表扩容、缩容以及rehash](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.572%E3%80%91redis7.0%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E5%93%88%E5%B8%8C%E8%A1%A8%E6%89%A9%E5%AE%B9%E3%80%81%E7%BC%A9%E5%AE%B9%E4%BB%A5%E5%8F%8Arehash.md)
+
+##### [7.7.5 eBPF学习 - 入门](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.573%E3%80%91eBPF%E5%AD%A6%E4%B9%A0%20-%20%E5%85%A5%E9%97%A8.md)
+
+##### [7.7.6 Nginx源码阅读：避免惊群以及负载均衡的原理与具体实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.574%E3%80%91Nginx%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%EF%BC%9A%E9%81%BF%E5%85%8D%E6%83%8A%E7%BE%A4%E4%BB%A5%E5%8F%8A%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%85%B7%E4%BD%93%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.7.7 海量数据去重的hash，bitmap与布隆过滤器Bloom Filter](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.575%E3%80%91%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%8E%BB%E9%87%8D%E7%9A%84hash%EF%BC%8Cbitmap%E4%B8%8E%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8Bloom%20Filter.md)
+
+##### [7.7.8 锁与原子操作CAS的底层实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.576%E3%80%91%E9%94%81%E4%B8%8E%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9CCAS%E7%9A%84%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.7.9 httphttps服务器的实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.577%E3%80%91httphttps%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.8.1 随处可见的红黑树](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.578%E3%80%91%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81%E7%9A%84%E7%BA%A2%E9%BB%91%E6%A0%91.md)
+
+##### [7.8.2 Nginx反向代理与系统参数配置conf原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.579%E3%80%91Nginx%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AEconf%E5%8E%9F%E7%90%86.md)
+
+##### [7.8.3 多线程实践概述](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.580%E3%80%91%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%AE%9E%E8%B7%B5%E6%A6%82%E8%BF%B0.md)
+
+##### [7.8.4 C++高性能协程分布式服务框架设计](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.581%E3%80%91C%2B%2B%E9%AB%98%E6%80%A7%E8%83%BD%E5%8D%8F%E7%A8%8B%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.md)
+
+##### [7.8.5 如何能够看懂TCPIP 协议细节？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.582%E3%80%91%E5%A6%82%E4%BD%95%E8%83%BD%E5%A4%9F%E7%9C%8B%E6%87%82TCPIP%20%E5%8D%8F%E8%AE%AE%E7%BB%86%E8%8A%82%EF%BC%9F.md)
+
+##### [7.8.6 一文搞懂 mmap 涉及的所有内容](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.583%E3%80%91%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%20mmap%20%E6%B6%89%E5%8F%8A%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9.md)
+
+##### [7.8.7 C++这么难，为什么我们还要学习C++？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.584%E3%80%91C%2B%2B%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%BF%98%E8%A6%81%E5%AD%A6%E4%B9%A0C%2B%2B%EF%BC%9F.md)
+
+##### [7.8.8 内存泄露定位手段（c语言hook malloc相关方式）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.585%E3%80%91%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E5%AE%9A%E4%BD%8D%E6%89%8B%E6%AE%B5%EF%BC%88c%E8%AF%AD%E8%A8%80hook%20malloc%E7%9B%B8%E5%85%B3%E6%96%B9%E5%BC%8F%EF%BC%89.md)
+
+##### [7.8.9 linux：孤儿进程与僵尸进程产生及其处理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.586%E3%80%91linux%EF%BC%9A%E5%AD%A4%E5%84%BF%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%E4%BA%A7%E7%94%9F%E5%8F%8A%E5%85%B6%E5%A4%84%E7%90%86.md)
+
+##### [7.9.1 linux异步IO编程实例分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.587%E3%80%91linux%E5%BC%82%E6%AD%A5IO%E7%BC%96%E7%A8%8B%E5%AE%9E%E4%BE%8B%E5%88%86%E6%9E%90.md)
+
+##### [7.9.2 透视Linux内核，BPF 深度分析与案例讲解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.588%E3%80%91%E9%80%8F%E8%A7%86Linux%E5%86%85%E6%A0%B8%EF%BC%8CBPF%20%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E4%B8%8E%E6%A1%88%E4%BE%8B%E8%AE%B2%E8%A7%A3.md)
+
+##### [7.9.3 论fork()函数与Linux中的多线程编程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.589%E3%80%91%E8%AE%BAfork()%E5%87%BD%E6%95%B0%E4%B8%8ELinux%E4%B8%AD%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B.md)
+
+##### [7.9.4 Linux 直接IO 原理与实现](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.590%E3%80%91Linux%20%E7%9B%B4%E6%8E%A5IO%20%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+##### [7.9.5 深入了解epoll模型（特别详细）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.591%E3%80%91%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3epoll%E6%A8%A1%E5%9E%8B%EF%BC%88%E7%89%B9%E5%88%AB%E8%AF%A6%E7%BB%86%EF%BC%89.md)
+
+##### [7.9.6 内存泄漏-原因、避免和定位](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.592%E3%80%91%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F-%E5%8E%9F%E5%9B%A0%E3%80%81%E9%81%BF%E5%85%8D%E5%92%8C%E5%AE%9A%E4%BD%8D.md)
+
+##### [7.9.7 一道腾讯面试题目：没有listen，能否建立TCP连接](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.593%E3%80%91%E4%B8%80%E9%81%93%E8%85%BE%E8%AE%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9B%AE%EF%BC%9A%E6%B2%A1%E6%9C%89listen%EF%BC%8C%E8%83%BD%E5%90%A6%E5%BB%BA%E7%AB%8BTCP%E8%BF%9E%E6%8E%A5.md)
+
+##### [7.9.8 一篇文章读懂dpdk——dpdk原理详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.594%E3%80%91%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AF%BB%E6%87%82dpdk%E2%80%94%E2%80%94dpdk%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3.md)
+
+##### [7.9.9 深入理解无锁编程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.595%E3%80%91%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E6%97%A0%E9%94%81%E7%BC%96%E7%A8%8B-%E8%AF%91%E8%87%AA%E3%80%8AAn%20Introduction%20to%20Lock-Free%20Programming%E3%80%8B.md)
+
+##### [8.1.1 网络编程：线上大量CLOSE_WAIT的原因深入分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.596%E3%80%91%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%EF%BC%9A%E7%BA%BF%E4%B8%8A%E5%A4%A7%E9%87%8FCLOSE_WAIT%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
+
+##### [8.1.2 记录一次腾讯cc++ linux后台开发岗面试经历](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.597%E3%80%91%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E8%85%BE%E8%AE%AFcc%2B%2B%20linux%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%B2%97%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%EF%BC%88%E9%9D%A2%E8%AF%95%E9%A2%98%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89.md)
+
+##### [8.1.3 如何高效定位网络丢包问题？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.598%E3%80%91%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AE%9A%E4%BD%8D%E7%BD%91%E7%BB%9C%E4%B8%A2%E5%8C%85%E9%97%AE%E9%A2%98%EF%BC%9F.md)
+
+##### [8.1.4 高并发的socket的高性能设计](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.599%E3%80%91%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84socket%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%BE%E8%AE%A1.md)
+
+##### [8.1.5 C++开发常用的设计模式及其实现详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.600%E3%80%91C%2B%2B%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%AE%9E%E7%8E%B0%E8%AF%A6%E8%A7%A3.md)
+
+##### [8.1.6 【linux】彻底搞懂零拷贝（Zero-Copy）技术](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.601%E3%80%91%E3%80%90linux%E3%80%91%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E9%9B%B6%E6%8B%B7%E8%B4%9D%EF%BC%88Zero-Copy%EF%BC%89%E6%8A%80%E6%9C%AF.md)
+
+##### [8.1.7 Linux C++的多线程编程](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.602%E3%80%91Linux%20C%2B%2B%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%EF%BC%88%E6%96%B0%E6%89%8B%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B%EF%BC%89.md)
+
+##### [8.1.8 TCP协议之Send和Recv原理及常见问题分析](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.603%E3%80%91TCP%E5%8D%8F%E8%AE%AE%E4%B9%8BSend%E5%92%8CRecv%E5%8E%9F%E7%90%86%E5%8F%8A%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90.md)
+
+##### [8.1.9 MySQL 死锁案例解析，能让你彻底理解死锁的原因](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.604%E3%80%91MySQL%20%E6%AD%BB%E9%94%81%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90%EF%BC%8C%E8%83%BD%E8%AE%A9%E4%BD%A0%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3%E6%AD%BB%E9%94%81%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%81.md)
+
+##### [8.2.1 C++之内存管理：申请与释放](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.605%E3%80%91C%2B%2B%E4%B9%8B%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%EF%BC%9A%E7%94%B3%E8%AF%B7%E4%B8%8E%E9%87%8A%E6%94%BE.md)
+
+##### [8.2.2 计算机操作系统知识点总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.606%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%EF%BC%88%E6%9C%89%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%89.md)
+
+##### [8.2.3 UDP的可靠性传输](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.607%E3%80%91UDP%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E4%BC%A0%E8%BE%93.md)
+
+##### [8.2.4 Linux 进程间通信：管道、共享内存、消息队列、信号量](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.608%E3%80%91Linux%20%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%9A%E7%AE%A1%E9%81%93%E3%80%81%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E3%80%81%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E3%80%81%E4%BF%A1%E5%8F%B7%E9%87%8F.md)
+
+##### [8.2.5 深入操作系统，一文搞懂Socket到底是什么](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.609%E3%80%91%E6%B7%B1%E5%85%A5%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82Socket%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88.md)
+
+##### [8.2.6 C++多线程详解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.610%E3%80%91C%2B%2B%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AF%A6%E8%A7%A3%EF%BC%88%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%EF%BC%89.md)
+
+##### [8.2.7 linux多线程--双buffer “无锁” 设计](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.611%E3%80%91linux%E5%A4%9A%E7%BA%BF%E7%A8%8B--%E5%8F%8Cbuffer%20%E2%80%9C%E6%97%A0%E9%94%81%E2%80%9D%20%E8%AE%BE%E8%AE%A1.md)
+
+##### [8.2.8 一篇文章教你，Linux内存管理原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.612%E3%80%91%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E6%95%99%E4%BD%A0%EF%BC%8CLinux%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%8E%9F%E7%90%86.md)
+
+##### [8.2.9 一篇文章助你了解dpdk所有技术点](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.613%E3%80%91%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%8A%A9%E4%BD%A0%E4%BA%86%E8%A7%A3dpdk%E6%89%80%E6%9C%89%E6%8A%80%E6%9C%AF%E7%82%B9.md)
+
+##### [8.3.1 C++多线程编程，线程互斥和同步通信，死锁问题分析解决](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.614%E3%80%91C%2B%2B%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%EF%BC%8C%E7%BA%BF%E7%A8%8B%E4%BA%92%E6%96%A5%E5%92%8C%E5%90%8C%E6%AD%A5%E9%80%9A%E4%BF%A1%EF%BC%8C%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90%E8%A7%A3%E5%86%B3.md)
+
+##### [8.3.2 linux服务器性能调优之tcpip性能调优](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.615%E3%80%91linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E4%B9%8Btcpip%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+
+##### [8.3.3 国内顶级网络大神对TCP的深刻理解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.616%E3%80%91%E5%9B%BD%E5%86%85%E9%A1%B6%E7%BA%A7%E7%BD%91%E7%BB%9C%E5%A4%A7%E7%A5%9E%E5%AF%B9TCP%E7%9A%84%E6%B7%B1%E5%88%BB%E7%90%86%E8%A7%A3.md)
+
+##### [8.3.4 Linux性能优化-CPU性能优化思路](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.617%E3%80%91Linux%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-CPU%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF.md)
+
+##### [8.3.5 浅谈linux定时器时间轮算法](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.618%E3%80%91%E6%B5%85%E8%B0%88linux%E5%AE%9A%E6%97%B6%E5%99%A8%E6%97%B6%E9%97%B4%E8%BD%AE%E7%AE%97%E6%B3%95.md)
+
+##### [8.3.6 一文彻底揭秘linux操作系统之「零拷贝」！](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.619%E3%80%91%E4%B8%80%E6%96%87%E5%BD%BB%E5%BA%95%E6%8F%AD%E7%A7%98linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B9%8B%E3%80%8C%E9%9B%B6%E6%8B%B7%E8%B4%9D%E3%80%8D%EF%BC%81.md)
+
+##### [8.3.7 c++ 协程_关于协程的实现与原理，多年程序员深度总结](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.620%E3%80%91c%2B%2B%20%E5%8D%8F%E7%A8%8B_%E5%85%B3%E4%BA%8E%E5%8D%8F%E7%A8%8B%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%B8%8E%E5%8E%9F%E7%90%86%EF%BC%8C%E5%A4%9A%E5%B9%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E6%B7%B1%E5%BA%A6%E6%80%BB%E7%BB%93.md)
+
+##### [8.3.8 深度剖析linux socket的epollinepollout是何时触发的](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.621%E3%80%91%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90linux%20socket%E7%9A%84epollinepollout%E6%98%AF%E4%BD%95%E6%97%B6%E8%A7%A6%E5%8F%91%E7%9A%84.md)
+
+##### [8.3.9 Linux中的各种锁及其基本原理](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.622%E3%80%91Linux%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%81%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md)
+
+##### [8.4.1 redis IO多路复用原理：高性能IO之Reactor模式](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.623%E3%80%91redis%20IO%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E5%8E%9F%E7%90%86%EF%BC%9A%E9%AB%98%E6%80%A7%E8%83%BDIO%E4%B9%8BReactor%E6%A8%A1%E5%BC%8F.md)
+
+##### [8.4.2 【进程管理】fork之后子进程到底复制了父进程什么？](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.624%E3%80%91%E3%80%90%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86%E3%80%91fork%E4%B9%8B%E5%90%8E%E5%AD%90%E8%BF%9B%E7%A8%8B%E5%88%B0%E5%BA%95%E5%A4%8D%E5%88%B6%E4%BA%86%E7%88%B6%E8%BF%9B%E7%A8%8B%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+
+##### [8.4.3 Linux内核进程上下文切换深入理解](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.625%E3%80%91Linux%E5%86%85%E6%A0%B8%E8%BF%9B%E7%A8%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3.md)
+
 <br/>
 <br/>
 
